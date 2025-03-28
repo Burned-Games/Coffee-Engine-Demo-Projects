@@ -1,0 +1,41 @@
+{
+    "importData": {
+        "polymorphic_id": 2147483649,
+        "polymorphic_name": "Coffee::ModelImportData",
+        "ptr_wrapper": {
+            "valid": 1,
+            "data": {
+                "meshUUIDs": [
+                    {
+                        "key": "DamagedHelmet_mesh_helmet_LP_13930damagedHelmet",
+                        "value": {
+                            "value0": 9401128420297502308
+                        }
+                    }
+                ],
+                "materialUUIDs": [
+                    {
+                        "key": "Material_MR_Mat0",
+                        "value": {
+                            "value0": 8193131248793045844
+                        }
+                    }
+                ],
+                "value0": {
+                    "uuid": {
+                        "value0": 9358316967540175349
+                    },
+                    "type": 4,
+                    "originalPath": {
+                        "value0": "assets/models/DamagedHelmet/DamagedHelmet.gltf"
+                    },
+                    "cachedPath": {
+                        "value0": ".CoffeeEngine/Cache/9358316967540175349.model"
+                    },
+                    "cache": true,
+                    "internal": false
+                }
+            }
+        }
+    }
+}

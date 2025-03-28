@@ -1,0 +1,26 @@
+{
+    "importData": {
+        "polymorphic_id": 2147483649,
+        "polymorphic_name": "Coffee::Texture2DImportData",
+        "ptr_wrapper": {
+            "valid": 1,
+            "data": {
+                "value0": {
+                    "uuid": {
+                        "value0": 10665773168591518924
+                    },
+                    "type": 2,
+                    "originalPath": {
+                        "value0": "assets/models/sponza-gltf-pbr/2079865044350246831.png"
+                    },
+                    "cachedPath": {
+                        "value0": ".CoffeeEngine/Cache/10665773168591518924.tex"
+                    },
+                    "cache": true,
+                    "internal": false
+                },
+                "sRGB": false
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "importData": {
+        "polymorphic_id": 2147483649,
+        "polymorphic_name": "Coffee::ModelImportData",
+        "ptr_wrapper": {
+            "valid": 1,
+            "data": {
+                "meshUUIDs": [
+                    {
+                        "key": "sceneTreeImportingTest_Cube.003",
+                        "value": {
+                            "value0": 10383849960758460244
+                        }
+                    },
+                    {
+                        "key": "sceneTreeImportingTest_Cube.002",
+                        "value": {
+                            "value0": 8067161716008975656
+                        }
+                    },
+                    {
+                        "key": "sceneTreeImportingTest_Cone.001",
+                        "value": {
+                            "value0": 10308548928920154790
+                        }
+                    }
+                ],
+                "materialUUIDs": [
+                    {
+                        "key": "Cube_Mat0",
+                        "value": {
+                            "value0": 17098868647338660821
+                        }
+                    },
+                    {
+                        "key": "Cube.001_Mat0",
+                        "value": {
+                            "value0": 10169703729434699511
+                        }
+                    },
+                    {
+                        "key": "Cone_Mat0",
+                        "value": {
+                            "value0": 100759161345958074
+                        }
+                    }
+                ],
+                "value0": {
+                    "uuid": {
+                        "value0": 755338998186739167
+                    },
+                    "type": 4,
+                    "originalPath": {
+                        "value0": "assets/models/sceneTreeImportingTest.glb"
+                    },
+                    "cachedPath": {
+                        "value0": ".CoffeeEngine/Cache/755338998186739167.model"
+                    },
+                    "cache": true,
+                    "internal": false
+                }
+            }
+        }
+    }
+}

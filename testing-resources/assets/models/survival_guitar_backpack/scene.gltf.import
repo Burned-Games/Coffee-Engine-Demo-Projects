@@ -1,0 +1,509 @@
+{
+    "importData": {
+        "polymorphic_id": 2147483649,
+        "polymorphic_name": "Coffee::ModelImportData",
+        "ptr_wrapper": {
+            "valid": 1,
+            "data": {
+                "meshUUIDs": [
+                    {
+                        "key": "scene_Cube.055__0",
+                        "value": {
+                            "value0": 2995059617356800113
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.027__0",
+                        "value": {
+                            "value0": 6560634303619592883
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.026__0",
+                        "value": {
+                            "value0": 4600016894175161451
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.025__0",
+                        "value": {
+                            "value0": 6721735075534596837
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.024__0",
+                        "value": {
+                            "value0": 5287942928240079605
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.023__0",
+                        "value": {
+                            "value0": 10994250248223040593
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.022__0",
+                        "value": {
+                            "value0": 2797548803096995473
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.054__0",
+                        "value": {
+                            "value0": 12169303404727627364
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.053__0",
+                        "value": {
+                            "value0": 6783334166151120518
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.052__0",
+                        "value": {
+                            "value0": 15714427313517686881
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.021__0",
+                        "value": {
+                            "value0": 16246604954470941399
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.020__0",
+                        "value": {
+                            "value0": 1131523603729009536
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.019__0",
+                        "value": {
+                            "value0": 13522745830758489652
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.018__0",
+                        "value": {
+                            "value0": 18148234655986276215
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.051__0",
+                        "value": {
+                            "value0": 10781826628828905133
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.017__0",
+                        "value": {
+                            "value0": 13294060977782669190
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.016__0",
+                        "value": {
+                            "value0": 6751282351635147377
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.015__0",
+                        "value": {
+                            "value0": 16180112549081865523
+                        }
+                    },
+                    {
+                        "key": "scene_Sphere.014__0",
+                        "value": {
+                            "value0": 11544661675764104296
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.050__0",
+                        "value": {
+                            "value0": 13844316976010676377
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.056__0",
+                        "value": {
+                            "value0": 3419707630133991956
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.055__0",
+                        "value": {
+                            "value0": 1210295655815374435
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.049__0",
+                        "value": {
+                            "value0": 10848080527545684963
+                        }
+                    },
+                    {
+                        "key": "scene_BezierCurve.003__0",
+                        "value": {
+                            "value0": 11292417483647491553
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.053__0",
+                        "value": {
+                            "value0": 16867600091629600313
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.052__0",
+                        "value": {
+                            "value0": 11123507007104029922
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.051__0",
+                        "value": {
+                            "value0": 10492016495356553538
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.048__0",
+                        "value": {
+                            "value0": 6257912240075991494
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.047__0",
+                        "value": {
+                            "value0": 10357550392099191217
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.046__0",
+                        "value": {
+                            "value0": 555315437929469898
+                        }
+                    },
+                    {
+                        "key": "scene_Plane.015__0",
+                        "value": {
+                            "value0": 3919337230662293011
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.045__0",
+                        "value": {
+                            "value0": 18264721195768228800
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.044__0",
+                        "value": {
+                            "value0": 5274007707424924545
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.043__0",
+                        "value": {
+                            "value0": 12969957426919265636
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.042__0",
+                        "value": {
+                            "value0": 15152817081052204763
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.041__0",
+                        "value": {
+                            "value0": 4426853654921064280
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.040__0",
+                        "value": {
+                            "value0": 13548131217483453780
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.049__0",
+                        "value": {
+                            "value0": 8584425446561830114
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.048__0",
+                        "value": {
+                            "value0": 9356400193414672151
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.047__0",
+                        "value": {
+                            "value0": 13633439198296955831
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.046__0",
+                        "value": {
+                            "value0": 17560337196108834406
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.045__0",
+                        "value": {
+                            "value0": 11452384288086762870
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.044__0",
+                        "value": {
+                            "value0": 9398801968232539040
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.043__0",
+                        "value": {
+                            "value0": 5509681119002333044
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.042__0",
+                        "value": {
+                            "value0": 17342290648993674645
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.041__0",
+                        "value": {
+                            "value0": 62609180924574768
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.040__0",
+                        "value": {
+                            "value0": 9685459692562857992
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.039__0",
+                        "value": {
+                            "value0": 4159016859341913006
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.038__0",
+                        "value": {
+                            "value0": 18181583821769179558
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.037__0",
+                        "value": {
+                            "value0": 18332530827420311627
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.036__0",
+                        "value": {
+                            "value0": 15520748345865350352
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.039__0",
+                        "value": {
+                            "value0": 3128663787978438752
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.038__0",
+                        "value": {
+                            "value0": 4685557924822703773
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.035__0",
+                        "value": {
+                            "value0": 6888152854900766030
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.034__0",
+                        "value": {
+                            "value0": 13642050164333531891
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.037__0",
+                        "value": {
+                            "value0": 6657476807904819817
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.033__0",
+                        "value": {
+                            "value0": 11797018242671069229
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.036__0",
+                        "value": {
+                            "value0": 3092411945319990378
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.035__0",
+                        "value": {
+                            "value0": 12425790288708262481
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.034__0",
+                        "value": {
+                            "value0": 13679129504358491618
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.033__0",
+                        "value": {
+                            "value0": 8001986386342122887
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.032__0",
+                        "value": {
+                            "value0": 8476245202118407323
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.032__0",
+                        "value": {
+                            "value0": 8724592028180959562
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.031__0",
+                        "value": {
+                            "value0": 3764652439637115304
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.031__0",
+                        "value": {
+                            "value0": 9733826665164070123
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.050__0",
+                        "value": {
+                            "value0": 3548121820378453727
+                        }
+                    },
+                    {
+                        "key": "scene_Plane.014__0",
+                        "value": {
+                            "value0": 7582122039910674574
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.030__0",
+                        "value": {
+                            "value0": 17842179281493446506
+                        }
+                    },
+                    {
+                        "key": "scene_Plane.013__0",
+                        "value": {
+                            "value0": 16644391746375361810
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.054__0",
+                        "value": {
+                            "value0": 12266722105065404417
+                        }
+                    },
+                    {
+                        "key": "scene_Plane.012__0",
+                        "value": {
+                            "value0": 8289444605676542360
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.030__0",
+                        "value": {
+                            "value0": 9954823037115075836
+                        }
+                    },
+                    {
+                        "key": "scene_Cylinder.029__0",
+                        "value": {
+                            "value0": 2315134288898527282
+                        }
+                    },
+                    {
+                        "key": "scene_Plane.011__0",
+                        "value": {
+                            "value0": 10568394701518608675
+                        }
+                    },
+                    {
+                        "key": "scene_Plane.010__0",
+                        "value": {
+                            "value0": 2387370381666898762
+                        }
+                    },
+                    {
+                        "key": "scene_Plane.009__0",
+                        "value": {
+                            "value0": 13127442143925472352
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.029__0",
+                        "value": {
+                            "value0": 13926220327025291695
+                        }
+                    },
+                    {
+                        "key": "scene_Plane.008__0",
+                        "value": {
+                            "value0": 9981353531792186250
+                        }
+                    },
+                    {
+                        "key": "scene_Cube.028__0",
+                        "value": {
+                            "value0": 4643839022917432074
+                        }
+                    }
+                ],
+                "materialUUIDs": [
+                    {
+                        "key": "Scene_-_Root_Mat0",
+                        "value": {
+                            "value0": 13535752194631829705
+                        }
+                    }
+                ],
+                "value0": {
+                    "uuid": {
+                        "value0": 15455141034797007353
+                    },
+                    "type": 4,
+                    "originalPath": {
+                        "value0": "assets/models/survival_guitar_backpack/scene.gltf"
+                    },
+                    "cachedPath": {
+                        "value0": ".CoffeeEngine/Cache/15455141034797007353.model"
+                    },
+                    "cache": true,
+                    "internal": false
+                }
+            }
+        }
+    }
+}

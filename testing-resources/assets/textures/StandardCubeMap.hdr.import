@@ -1,0 +1,25 @@
+{
+    "importData": {
+        "polymorphic_id": 2147483649,
+        "polymorphic_name": "Coffee::CubemapImportData",
+        "ptr_wrapper": {
+            "valid": 1,
+            "data": {
+                "value0": {
+                    "uuid": {
+                        "value0": 15126671391839751523
+                    },
+                    "type": 3,
+                    "originalPath": {
+                        "value0": "assets/textures/StandardCubeMap.hdr"
+                    },
+                    "cachedPath": {
+                        "value0": ".CoffeeEngine/Cache/15126671391839751523.cubemap"
+                    },
+                    "cache": true,
+                    "internal": false
+                }
+            }
+        }
+    }
+}

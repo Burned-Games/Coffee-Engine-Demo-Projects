@@ -1,0 +1,41 @@
+{
+    "importData": {
+        "polymorphic_id": 2147483649,
+        "polymorphic_name": "Coffee::ModelImportData",
+        "ptr_wrapper": {
+            "valid": 1,
+            "data": {
+                "meshUUIDs": [
+                    {
+                        "key": "plane_Plane",
+                        "value": {
+                            "value0": 15893633067631558259
+                        }
+                    }
+                ],
+                "materialUUIDs": [
+                    {
+                        "key": "plane.glb_Mat0",
+                        "value": {
+                            "value0": 7606993568590327874
+                        }
+                    }
+                ],
+                "value0": {
+                    "uuid": {
+                        "value0": 7556180092834510627
+                    },
+                    "type": 4,
+                    "originalPath": {
+                        "value0": "assets/models/plane.glb"
+                    },
+                    "cachedPath": {
+                        "value0": ".CoffeeEngine/Cache/7556180092834510627.model"
+                    },
+                    "cache": true,
+                    "internal": false
+                }
+            }
+        }
+    }
+}

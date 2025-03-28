@@ -39,3 +39,4 @@ luac.out
 *.x86_64
 *.hex
 
+/testing-resources/.CoffeeEngine
