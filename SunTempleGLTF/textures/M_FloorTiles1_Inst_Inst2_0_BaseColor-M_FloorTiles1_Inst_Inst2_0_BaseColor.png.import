@@ -1,0 +1,29 @@
+{
+    "importData": {
+        "polymorphic_id": 2147483649,
+        "polymorphic_name": "Coffee::Texture2DImportData",
+        "ptr_wrapper": {
+            "valid": 1,
+            "data": {
+                "cereal_class_version": 0,
+                "value0": {
+                    "cereal_class_version": 0,
+                    "uuid": {
+                        "cereal_class_version": 0,
+                        "value0": 2930060924573325326
+                    },
+                    "type": 2,
+                    "originalPath": {
+                        "value0": "textures/M_FloorTiles1_Inst_Inst2_0_BaseColor-M_FloorTiles1_Inst_Inst2_0_BaseColor.png"
+                    },
+                    "cachedPath": {
+                        "value0": ".CoffeeEngine/Cache/2930060924573325326.tex"
+                    },
+                    "cache": true,
+                    "internal": false
+                },
+                "sRGB": true
+            }
+        }
+    }
+}

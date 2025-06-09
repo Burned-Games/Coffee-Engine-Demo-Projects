@@ -1,0 +1,28 @@
+{
+    "importData": {
+        "polymorphic_id": 2147483649,
+        "polymorphic_name": "Coffee::CubemapImportData",
+        "ptr_wrapper": {
+            "valid": 1,
+            "data": {
+                "cereal_class_version": 0,
+                "value0": {
+                    "cereal_class_version": 0,
+                    "uuid": {
+                        "cereal_class_version": 0,
+                        "value0": 12328454388219517069
+                    },
+                    "type": 3,
+                    "originalPath": {
+                        "value0": "moonless_golf_4k.hdr"
+                    },
+                    "cachedPath": {
+                        "value0": ".CoffeeEngine/Cache/12328454388219517069.cubemap"
+                    },
+                    "cache": true,
+                    "internal": false
+                }
+            }
+        }
+    }
+}

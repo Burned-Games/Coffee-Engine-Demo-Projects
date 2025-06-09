@@ -1,0 +1,13 @@
+{
+    "Project": {
+        "cereal_class_version": 1,
+        "Name": "Untitled.TeaProject",
+        "StartScene": "",
+        "CacheDirectory": {
+            "value0": ".CoffeeEngine/Cache/"
+        },
+        "AudioDirectory": {
+            "value0": ""
+        }
+    }
+}
