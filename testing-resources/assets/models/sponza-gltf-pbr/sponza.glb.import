@@ -5,788 +5,791 @@
         "ptr_wrapper": {
             "valid": 1,
             "data": {
+                "cereal_class_version": 0,
                 "meshUUIDs": [
+                    {
+                        "key": "sponza_meshes[0]-102",
+                        "value": {
+                            "cereal_class_version": 0,
+                            "value0": 16441505105996925589
+                        }
+                    },
                     {
                         "key": "sponza_meshes[0]-101",
                         "value": {
-                            "value0": 11881130964064622928
+                            "value0": 4123098852200331135
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-100",
                         "value": {
-                            "value0": 16280704521262990921
+                            "value0": 9626713513543185378
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-99",
                         "value": {
-                            "value0": 17803909114447108812
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-98",
-                        "value": {
-                            "value0": 15921388232539688717
+                            "value0": 7478904610019991252
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-97",
                         "value": {
-                            "value0": 11521698488517955438
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-96",
-                        "value": {
-                            "value0": 126900553556202469
+                            "value0": 13306094057757817796
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-95",
                         "value": {
-                            "value0": 9051023594602768317
+                            "value0": 14964565116879515859
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-94",
                         "value": {
-                            "value0": 10961826687872398783
+                            "value0": 6100224831262930715
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-93",
                         "value": {
-                            "value0": 11270791728611410025
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-91",
-                        "value": {
-                            "value0": 15184024717357808273
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-88",
-                        "value": {
-                            "value0": 11864268373998821182
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-87",
-                        "value": {
-                            "value0": 9465644720649009941
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-86",
-                        "value": {
-                            "value0": 16831251906704224074
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-85",
-                        "value": {
-                            "value0": 5476676289526650550
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-84",
-                        "value": {
-                            "value0": 15901744279054614149
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-83",
-                        "value": {
-                            "value0": 7697090498902367007
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-82",
-                        "value": {
-                            "value0": 3986285117243287335
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-81",
-                        "value": {
-                            "value0": 8957692254657399906
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-80",
-                        "value": {
-                            "value0": 11519190050916179395
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-79",
-                        "value": {
-                            "value0": 14302563682870532314
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-78",
-                        "value": {
-                            "value0": 12034850305557595239
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-77",
-                        "value": {
-                            "value0": 6757189355433561817
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-76",
-                        "value": {
-                            "value0": 1885000269109731495
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-75",
-                        "value": {
-                            "value0": 16009969456839377856
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-74",
-                        "value": {
-                            "value0": 13151732838812014066
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-73",
-                        "value": {
-                            "value0": 18209719197035425034
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-72",
-                        "value": {
-                            "value0": 9130552631875061113
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-71",
-                        "value": {
-                            "value0": 14747864794991706903
+                            "value0": 14246212089994531276
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-92",
                         "value": {
-                            "value0": 11452694978741415558
+                            "value0": 4068669652479633628
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-70",
+                        "key": "sponza_meshes[0]-91",
                         "value": {
-                            "value0": 10315897969904060792
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-69",
-                        "value": {
-                            "value0": 4923636676336624499
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-68",
-                        "value": {
-                            "value0": 4869227846805241935
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-67",
-                        "value": {
-                            "value0": 6518850330843646423
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-66",
-                        "value": {
-                            "value0": 4962751947832268969
+                            "value0": 2503658580756626555
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-90",
                         "value": {
-                            "value0": 16267360463215725663
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-65",
-                        "value": {
-                            "value0": 6652721587697288089
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-64",
-                        "value": {
-                            "value0": 14511374877740449073
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-63",
-                        "value": {
-                            "value0": 16927072032229821575
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-61",
-                        "value": {
-                            "value0": 14220434695482090452
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-60",
-                        "value": {
-                            "value0": 15652627878706863320
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-59",
-                        "value": {
-                            "value0": 5614202028201462590
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-58",
-                        "value": {
-                            "value0": 10488794140586183026
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-57",
-                        "value": {
-                            "value0": 17731908531336326957
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-56",
-                        "value": {
-                            "value0": 6209432198821807162
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-55",
-                        "value": {
-                            "value0": 3072180506582067260
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-54",
-                        "value": {
-                            "value0": 12577361193363897863
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-53",
-                        "value": {
-                            "value0": 13419123086262491681
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-52",
-                        "value": {
-                            "value0": 11508180073520688189
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-51",
-                        "value": {
-                            "value0": 1610842838918192000
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-50",
-                        "value": {
-                            "value0": 15249864934582533547
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-49",
-                        "value": {
-                            "value0": 16393586180243570400
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-48",
-                        "value": {
-                            "value0": 12140206347359961928
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-47",
-                        "value": {
-                            "value0": 6606192780010552218
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-46",
-                        "value": {
-                            "value0": 6956178637376967889
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-44",
-                        "value": {
-                            "value0": 13161629704906048121
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-43",
-                        "value": {
-                            "value0": 2569945874545161260
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-42",
-                        "value": {
-                            "value0": 12674376320831889642
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-41",
-                        "value": {
-                            "value0": 5394113768952756786
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-40",
-                        "value": {
-                            "value0": 18003052815917423858
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-39",
-                        "value": {
-                            "value0": 655565384659311740
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-38",
-                        "value": {
-                            "value0": 16051230982016871660
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-37",
-                        "value": {
-                            "value0": 16328233761331854784
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-36",
-                        "value": {
-                            "value0": 2592612808799711162
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-102",
-                        "value": {
-                            "value0": 4295082037074002281
-                        }
-                    },
-                    {
-                        "key": "sponza_meshes[0]-35",
-                        "value": {
-                            "value0": 16595255392589624473
+                            "value0": 11781769129849026976
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-89",
                         "value": {
-                            "value0": 18293355322073059614
+                            "value0": 13726889868773338738
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-34",
+                        "key": "sponza_meshes[0]-88",
                         "value": {
-                            "value0": 15339216206325045297
+                            "value0": 2792961356070804507
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-33",
+                        "key": "sponza_meshes[0]-87",
                         "value": {
-                            "value0": 1706608998518931669
+                            "value0": 16984486426573635995
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-32",
+                        "key": "sponza_meshes[0]-86",
                         "value": {
-                            "value0": 11306885999972709445
+                            "value0": 5328141561405657810
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-31",
+                        "key": "sponza_meshes[0]-85",
                         "value": {
-                            "value0": 12356263123187867956
+                            "value0": 5717086502071460128
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-30",
+                        "key": "sponza_meshes[0]-84",
                         "value": {
-                            "value0": 15523630417010331573
+                            "value0": 11315922115497948438
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-29",
+                        "key": "sponza_meshes[0]-83",
                         "value": {
-                            "value0": 12303705212473647178
+                            "value0": 11308684945036994572
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-28",
+                        "key": "sponza_meshes[0]-82",
                         "value": {
-                            "value0": 4838407467211757820
+                            "value0": 17634333941514243409
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-27",
+                        "key": "sponza_meshes[0]-81",
                         "value": {
-                            "value0": 1945948132052515783
+                            "value0": 18104970238466460714
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-26",
+                        "key": "sponza_meshes[0]-80",
                         "value": {
-                            "value0": 6572688321927656278
+                            "value0": 905362219904228235
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-45",
+                        "key": "sponza_meshes[0]-79",
                         "value": {
-                            "value0": 8421487856839357335
+                            "value0": 10846933193843545493
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-25",
+                        "key": "sponza_meshes[0]-78",
                         "value": {
-                            "value0": 8791908483375026394
+                            "value0": 18346972699612678767
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-24",
+                        "key": "sponza_meshes[0]-77",
                         "value": {
-                            "value0": 10821996359660779370
+                            "value0": 14378976226282685382
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-22",
+                        "key": "sponza_meshes[0]-76",
                         "value": {
-                            "value0": 10619210600229099004
+                            "value0": 18123684701453875404
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-21",
+                        "key": "sponza_meshes[0]-75",
                         "value": {
-                            "value0": 16452603086735259449
+                            "value0": 15707923632096291834
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-20",
+                        "key": "sponza_meshes[0]-74",
                         "value": {
-                            "value0": 11336389027269146827
+                            "value0": 7006755658736369369
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-19",
+                        "key": "sponza_meshes[0]-73",
                         "value": {
-                            "value0": 3891015317732225738
+                            "value0": 12134579554728693209
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-18",
+                        "key": "sponza_meshes[0]-72",
                         "value": {
-                            "value0": 5739186224265278919
+                            "value0": 8808649471203312464
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-17",
+                        "key": "sponza_meshes[0]-71",
                         "value": {
-                            "value0": 14123359068048702617
+                            "value0": 8256409035828402752
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-16",
+                        "key": "sponza_meshes[0]-70",
                         "value": {
-                            "value0": 12870879597692746818
+                            "value0": 2795282548323067574
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-15",
+                        "key": "sponza_meshes[0]-69",
                         "value": {
-                            "value0": 7127045491480337453
+                            "value0": 7686209086979825435
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-14",
+                        "key": "sponza_meshes[0]-96",
                         "value": {
-                            "value0": 4978529590369360289
+                            "value0": 3374710060818489363
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-13",
+                        "key": "sponza_meshes[0]-68",
                         "value": {
-                            "value0": 15109233495730783496
+                            "value0": 15917754303406106524
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-66",
+                        "value": {
+                            "value0": 9681312328050987266
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-65",
+                        "value": {
+                            "value0": 11669615945558261199
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-64",
+                        "value": {
+                            "value0": 10258237490718386877
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-67",
+                        "value": {
+                            "value0": 17664031912688013013
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-63",
+                        "value": {
+                            "value0": 13845794177855061985
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-62",
                         "value": {
-                            "value0": 14684427023314235074
+                            "value0": 3244877414505780766
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-12",
+                        "key": "sponza_meshes[0]-61",
                         "value": {
-                            "value0": 15372046259034005823
+                            "value0": 2003798539278955480
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-11",
+                        "key": "sponza_meshes[0]-60",
                         "value": {
-                            "value0": 2166385740574590070
+                            "value0": 9067705093802739357
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-10",
+                        "key": "sponza_meshes[0]-59",
                         "value": {
-                            "value0": 7127682801319941651
+                            "value0": 3410136991099591659
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-9",
+                        "key": "sponza_meshes[0]-58",
                         "value": {
-                            "value0": 708224781299343116
+                            "value0": 5977341522712209020
                         }
                     },
                     {
-                        "key": "sponza_meshes[0]-8",
+                        "key": "sponza_meshes[0]-57",
                         "value": {
-                            "value0": 7654197843493333753
+                            "value0": 4230036204812749829
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-56",
+                        "value": {
+                            "value0": 2804513733912015375
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-55",
+                        "value": {
+                            "value0": 5571310526138145941
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-54",
+                        "value": {
+                            "value0": 12048322280348402891
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-53",
+                        "value": {
+                            "value0": 13698147463559862776
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-52",
+                        "value": {
+                            "value0": 6951598571884671971
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-51",
+                        "value": {
+                            "value0": 274887800891557970
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-50",
+                        "value": {
+                            "value0": 8630312160260650678
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-49",
+                        "value": {
+                            "value0": 2743110965946987888
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-48",
+                        "value": {
+                            "value0": 16424595287393521671
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-47",
+                        "value": {
+                            "value0": 6144558032440084534
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-46",
+                        "value": {
+                            "value0": 7528712776953897214
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-45",
+                        "value": {
+                            "value0": 13258314131913328361
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-44",
+                        "value": {
+                            "value0": 3237800265285556749
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-43",
+                        "value": {
+                            "value0": 17518940538013569022
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-42",
+                        "value": {
+                            "value0": 9981457493498217829
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-41",
+                        "value": {
+                            "value0": 14322511589135031699
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-40",
+                        "value": {
+                            "value0": 745363504230725003
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-39",
+                        "value": {
+                            "value0": 1336400336944878206
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-38",
+                        "value": {
+                            "value0": 15950704362350187595
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-37",
+                        "value": {
+                            "value0": 15651923819614502802
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-36",
+                        "value": {
+                            "value0": 1614878756483050521
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-35",
+                        "value": {
+                            "value0": 12878125140900472250
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-34",
+                        "value": {
+                            "value0": 3525593445434630856
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-33",
+                        "value": {
+                            "value0": 9430032772937949191
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-32",
+                        "value": {
+                            "value0": 18145049544617525856
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-31",
+                        "value": {
+                            "value0": 8767382557784093580
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-30",
+                        "value": {
+                            "value0": 18141880380873597551
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-29",
+                        "value": {
+                            "value0": 13862186696403407808
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-28",
+                        "value": {
+                            "value0": 1245970807650490313
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-27",
+                        "value": {
+                            "value0": 220590336078121020
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-26",
+                        "value": {
+                            "value0": 3175835447439008910
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-25",
+                        "value": {
+                            "value0": 14492964395360397132
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-24",
+                        "value": {
+                            "value0": 5262526974960344464
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-23",
                         "value": {
-                            "value0": 14353911787198521421
+                            "value0": 11453626112327194054
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-22",
+                        "value": {
+                            "value0": 2569585284152759846
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-21",
+                        "value": {
+                            "value0": 9278523115873501294
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-20",
+                        "value": {
+                            "value0": 634256480970865014
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-19",
+                        "value": {
+                            "value0": 847834432641757956
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-18",
+                        "value": {
+                            "value0": 1212930824354464672
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-17",
+                        "value": {
+                            "value0": 3881766876789059514
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-16",
+                        "value": {
+                            "value0": 12919380758790598000
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-15",
+                        "value": {
+                            "value0": 11584449724798550830
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-14",
+                        "value": {
+                            "value0": 10792778721252589625
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-13",
+                        "value": {
+                            "value0": 12096774302775582359
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-12",
+                        "value": {
+                            "value0": 15299418862923336223
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-11",
+                        "value": {
+                            "value0": 4014442675787327204
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-10",
+                        "value": {
+                            "value0": 547622320696118464
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-9",
+                        "value": {
+                            "value0": 2697858231888683613
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-8",
+                        "value": {
+                            "value0": 11576378473982530669
+                        }
+                    },
+                    {
+                        "key": "sponza_meshes[0]-98",
+                        "value": {
+                            "value0": 6399325991615815109
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-7",
                         "value": {
-                            "value0": 4598008156379790329
+                            "value0": 14491580504528266993
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-6",
                         "value": {
-                            "value0": 12629240187101979469
+                            "value0": 3366369023725402911
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-5",
                         "value": {
-                            "value0": 13849290208982233910
+                            "value0": 10151849455714673674
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-4",
                         "value": {
-                            "value0": 436653356462573727
+                            "value0": 436274397005517450
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-3",
                         "value": {
-                            "value0": 5796357697934854858
+                            "value0": 13008538786723790147
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-2",
                         "value": {
-                            "value0": 14772525320526691646
+                            "value0": 7547718845662152778
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-1",
                         "value": {
-                            "value0": 8123846142174703935
+                            "value0": 6903453390419926589
                         }
                     },
                     {
                         "key": "sponza_meshes[0]-0",
                         "value": {
-                            "value0": 12199132689993346752
+                            "value0": 12185684487667368396
                         }
                     }
                 ],
                 "materialUUIDs": [
                     {
+                        "key": "sponza.glb_Mat24",
+                        "value": {
+                            "value0": 13891273717694556423
+                        }
+                    },
+                    {
                         "key": "sponza.glb_Mat23",
                         "value": {
-                            "value0": 10034334936460598658
+                            "value0": 7477011203601752843
                         }
                     },
                     {
                         "key": "sponza.glb_Mat22",
                         "value": {
-                            "value0": 13064464473043094603
+                            "value0": 8188621586224022656
                         }
                     },
                     {
                         "key": "sponza.glb_Mat21",
                         "value": {
-                            "value0": 1114329527731864322
+                            "value0": 16807238680756498927
                         }
                     },
                     {
                         "key": "sponza.glb_Mat19",
                         "value": {
-                            "value0": 4499954653750507058
+                            "value0": 4661355073926362096
                         }
                     },
                     {
                         "key": "sponza.glb_Mat18",
                         "value": {
-                            "value0": 3564854010991126664
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat16",
-                        "value": {
-                            "value0": 3415402654300506065
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat15",
-                        "value": {
-                            "value0": 12307050682630409961
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat13",
-                        "value": {
-                            "value0": 2602036649062647819
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat17",
-                        "value": {
-                            "value0": 3879915206825205622
+                            "value0": 5446478628822963383
                         }
                     },
                     {
                         "key": "sponza.glb_Mat12",
                         "value": {
-                            "value0": 2651710997535140284
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat11",
-                        "value": {
-                            "value0": 3148017049925512471
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat8",
-                        "value": {
-                            "value0": 15685587185844689154
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat7",
-                        "value": {
-                            "value0": 11998759553925069786
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat14",
-                        "value": {
-                            "value0": 659502016466277637
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat6",
-                        "value": {
-                            "value0": 4920767955126018768
+                            "value0": 5604486750823231061
                         }
                     },
                     {
                         "key": "sponza.glb_Mat20",
                         "value": {
-                            "value0": 10387640867008065002
+                            "value0": 15491058438476278018
                         }
                     },
                     {
-                        "key": "sponza.glb_Mat4",
+                        "key": "sponza.glb_Mat14",
                         "value": {
-                            "value0": 8377116158047619788
+                            "value0": 12828005517262525200
                         }
                     },
                     {
-                        "key": "sponza.glb_Mat9",
+                        "key": "sponza.glb_Mat11",
                         "value": {
-                            "value0": 13810355153364146090
+                            "value0": 5804077437127323209
                         }
                     },
                     {
-                        "key": "sponza.glb_Mat3",
+                        "key": "sponza.glb_Mat16",
                         "value": {
-                            "value0": 10690993797369232334
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat24",
-                        "value": {
-                            "value0": 11310235342015649652
-                        }
-                    },
-                    {
-                        "key": "sponza.glb_Mat1",
-                        "value": {
-                            "value0": 1382866380025367971
+                            "value0": 6828965011960111163
                         }
                     },
                     {
                         "key": "sponza.glb_Mat10",
                         "value": {
-                            "value0": 16220294994463705593
+                            "value0": 5472666074949356790
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat9",
+                        "value": {
+                            "value0": 1523289277369104464
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat7",
+                        "value": {
+                            "value0": 9425675811867260310
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat6",
+                        "value": {
+                            "value0": 3643526215227661915
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat15",
+                        "value": {
+                            "value0": 1467702338228943575
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat8",
+                        "value": {
+                            "value0": 7418865012714131672
                         }
                     },
                     {
                         "key": "sponza.glb_Mat5",
                         "value": {
-                            "value0": 12934343010430553139
+                            "value0": 589333171614546086
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat4",
+                        "value": {
+                            "value0": 3585208768754010275
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat13",
+                        "value": {
+                            "value0": 14202125096332037613
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat3",
+                        "value": {
+                            "value0": 10854345255684522585
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat17",
+                        "value": {
+                            "value0": 1287995941615808114
                         }
                     },
                     {
                         "key": "sponza.glb_Mat2",
                         "value": {
-                            "value0": 16770547653774581014
+                            "value0": 15897862126251592813
+                        }
+                    },
+                    {
+                        "key": "sponza.glb_Mat1",
+                        "value": {
+                            "value0": 9394555019527637433
                         }
                     },
                     {
                         "key": "sponza.glb_Mat0",
                         "value": {
-                            "value0": 10270181157439495213
+                            "value0": 7277858314985176295
                         }
                     }
                 ],
                 "value0": {
+                    "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 16504842744359736764
+                        "value0": 6641134940060918814
                     },
                     "type": 4,
                     "originalPath": {
-                        "value0": "assets/models/sponza-gltf-pbr/sponza.glb"
+                        "value0": "testing-resources/assets/models/sponza-gltf-pbr/sponza.glb"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/16504842744359736764.model"
+                        "value0": ".CoffeeEngine/Cache/6641134940060918814.model"
                     },
                     "cache": true,
                     "internal": false

@@ -10,14 +10,14 @@
                     "cereal_class_version": 0,
                     "uuid": {
                         "cereal_class_version": 0,
-                        "value0": 329634513751468535
+                        "value0": 17180031271658795149
                     },
                     "type": 3,
                     "originalPath": {
-                        "value0": "SunTemple_Skybox.hdr"
+                        "value0": "SunTempleGLTF/SunTemple_Skybox.hdr"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/329634513751468535.cubemap"
+                        "value0": ".CoffeeEngine/Cache/17180031271658795149.cubemap"
                     },
                     "cache": true,
                     "internal": false

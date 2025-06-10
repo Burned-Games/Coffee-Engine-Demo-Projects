@@ -10,14 +10,14 @@
                     "cereal_class_version": 0,
                     "uuid": {
                         "cereal_class_version": 0,
-                        "value0": 10627528821150290773
+                        "value0": 10489716562930269252
                     },
                     "type": 3,
                     "originalPath": {
-                        "value0": "SunTemple_Reflection_Interior.hdr"
+                        "value0": "SunTempleGLTF/SunTemple_Reflection_Interior.hdr"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/10627528821150290773.cubemap"
+                        "value0": ".CoffeeEngine/Cache/10489716562930269252.cubemap"
                     },
                     "cache": true,
                     "internal": false

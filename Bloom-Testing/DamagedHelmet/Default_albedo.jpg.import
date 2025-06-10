@@ -10,14 +10,14 @@
                     "cereal_class_version": 0,
                     "uuid": {
                         "cereal_class_version": 0,
-                        "value0": 9553982705963871941
+                        "value0": 18152309220447457306
                     },
                     "type": 2,
                     "originalPath": {
-                        "value0": "DamagedHelmet/Default_albedo.jpg"
+                        "value0": "Bloom-Testing/DamagedHelmet/Default_albedo.jpg"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/9553982705963871941.tex"
+                        "value0": ".CoffeeEngine/Cache/18152309220447457306.tex"
                     },
                     "cache": true,
                     "internal": false

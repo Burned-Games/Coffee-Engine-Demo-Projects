@@ -5,23 +5,25 @@
         "ptr_wrapper": {
             "valid": 1,
             "data": {
+                "cereal_class_version": 0,
                 "meshUUIDs": [
                     {
                         "key": "sceneTreeImportingTest_Cube.003",
                         "value": {
-                            "value0": 10383849960758460244
+                            "cereal_class_version": 0,
+                            "value0": 3290754324844993032
                         }
                     },
                     {
                         "key": "sceneTreeImportingTest_Cube.002",
                         "value": {
-                            "value0": 8067161716008975656
+                            "value0": 8608595902512810632
                         }
                     },
                     {
                         "key": "sceneTreeImportingTest_Cone.001",
                         "value": {
-                            "value0": 10308548928920154790
+                            "value0": 1665854428666222770
                         }
                     }
                 ],
@@ -29,32 +31,33 @@
                     {
                         "key": "Cube_Mat0",
                         "value": {
-                            "value0": 17098868647338660821
+                            "value0": 3729855630088890950
                         }
                     },
                     {
                         "key": "Cube.001_Mat0",
                         "value": {
-                            "value0": 10169703729434699511
+                            "value0": 17552508033533539522
                         }
                     },
                     {
                         "key": "Cone_Mat0",
                         "value": {
-                            "value0": 100759161345958074
+                            "value0": 12614345393722310801
                         }
                     }
                 ],
                 "value0": {
+                    "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 755338998186739167
+                        "value0": 2044746891018919669
                     },
                     "type": 4,
                     "originalPath": {
-                        "value0": "assets/models/sceneTreeImportingTest.glb"
+                        "value0": "testing-resources/assets/models/sceneTreeImportingTest.glb"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/755338998186739167.model"
+                        "value0": ".CoffeeEngine/Cache/2044746891018919669.model"
                     },
                     "cache": true,
                     "internal": false

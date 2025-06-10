@@ -5,16 +5,19 @@
         "ptr_wrapper": {
             "valid": 1,
             "data": {
+                "cereal_class_version": 0,
                 "value0": {
+                    "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 14378034066942060638
+                        "cereal_class_version": 0,
+                        "value0": 7197875033680382715
                     },
                     "type": 2,
                     "originalPath": {
-                        "value0": "assets/models/survival_guitar_backpack/textures/Scene_-_Root_normal.png"
+                        "value0": "testing-resources/assets/models/survival_guitar_backpack/textures/Scene_-_Root_normal.png"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/14378034066942060638.tex"
+                        "value0": ".CoffeeEngine/Cache/7197875033680382715.tex"
                     },
                     "cache": true,
                     "internal": false

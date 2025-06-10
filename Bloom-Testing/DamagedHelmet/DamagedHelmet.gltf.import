@@ -11,7 +11,7 @@
                         "key": "DamagedHelmet_mesh_helmet_LP_13930damagedHelmet",
                         "value": {
                             "cereal_class_version": 0,
-                            "value0": 18185182796194587967
+                            "value0": 7568029664968331399
                         }
                     }
                 ],
@@ -19,21 +19,21 @@
                     {
                         "key": "Material_MR_Mat0",
                         "value": {
-                            "value0": 2842880982770104412
+                            "value0": 12022484955537414112
                         }
                     }
                 ],
                 "value0": {
                     "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 9069116155954337761
+                        "value0": 16040864757565350824
                     },
                     "type": 4,
                     "originalPath": {
-                        "value0": "DamagedHelmet/DamagedHelmet.gltf"
+                        "value0": "Bloom-Testing/DamagedHelmet/DamagedHelmet.gltf"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/9069116155954337761.model"
+                        "value0": ".CoffeeEngine/Cache/16040864757565350824.model"
                     },
                     "cache": true,
                     "internal": false

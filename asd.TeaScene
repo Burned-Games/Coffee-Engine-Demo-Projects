@@ -1,0 +1,5405 @@
+{
+    "value0": {
+        "cereal_class_version": 3,
+        "value0": 107,
+        "value1": 107,
+        "value2": 0,
+        "value3": 1,
+        "value4": 2,
+        "value5": 3,
+        "value6": 4,
+        "value7": 5,
+        "value8": 6,
+        "value9": 7,
+        "value10": 8,
+        "value11": 9,
+        "value12": 10,
+        "value13": 11,
+        "value14": 12,
+        "value15": 13,
+        "value16": 14,
+        "value17": 15,
+        "value18": 16,
+        "value19": 17,
+        "value20": 18,
+        "value21": 19,
+        "value22": 20,
+        "value23": 21,
+        "value24": 22,
+        "value25": 23,
+        "value26": 24,
+        "value27": 25,
+        "value28": 26,
+        "value29": 27,
+        "value30": 28,
+        "value31": 29,
+        "value32": 30,
+        "value33": 31,
+        "value34": 32,
+        "value35": 33,
+        "value36": 34,
+        "value37": 35,
+        "value38": 36,
+        "value39": 37,
+        "value40": 38,
+        "value41": 39,
+        "value42": 40,
+        "value43": 41,
+        "value44": 42,
+        "value45": 43,
+        "value46": 44,
+        "value47": 45,
+        "value48": 46,
+        "value49": 47,
+        "value50": 48,
+        "value51": 49,
+        "value52": 50,
+        "value53": 51,
+        "value54": 52,
+        "value55": 53,
+        "value56": 54,
+        "value57": 55,
+        "value58": 56,
+        "value59": 57,
+        "value60": 58,
+        "value61": 59,
+        "value62": 60,
+        "value63": 61,
+        "value64": 62,
+        "value65": 63,
+        "value66": 64,
+        "value67": 65,
+        "value68": 66,
+        "value69": 67,
+        "value70": 68,
+        "value71": 69,
+        "value72": 70,
+        "value73": 71,
+        "value74": 72,
+        "value75": 73,
+        "value76": 74,
+        "value77": 75,
+        "value78": 76,
+        "value79": 77,
+        "value80": 78,
+        "value81": 79,
+        "value82": 80,
+        "value83": 81,
+        "value84": 82,
+        "value85": 83,
+        "value86": 84,
+        "value87": 85,
+        "value88": 86,
+        "value89": 87,
+        "value90": 88,
+        "value91": 89,
+        "value92": 90,
+        "value93": 91,
+        "value94": 92,
+        "value95": 93,
+        "value96": 94,
+        "value97": 95,
+        "value98": 96,
+        "value99": 97,
+        "value100": 98,
+        "value101": 99,
+        "value102": 100,
+        "value103": 101,
+        "value104": 102,
+        "value105": 103,
+        "value106": 104,
+        "value107": 106,
+        "value108": 1048681,
+        "value109": 107,
+        "value110": 0,
+        "value111": {
+            "cereal_class_version": 0,
+            "Tag": "sponza.glb"
+        },
+        "value112": 1,
+        "value113": {
+            "Tag": "sponza_meshes[0]-0"
+        },
+        "value114": 2,
+        "value115": {
+            "Tag": "sponza_meshes[0]-1"
+        },
+        "value116": 3,
+        "value117": {
+            "Tag": "sponza_meshes[0]-2"
+        },
+        "value118": 4,
+        "value119": {
+            "Tag": "sponza_meshes[0]-3"
+        },
+        "value120": 5,
+        "value121": {
+            "Tag": "sponza_meshes[0]-4"
+        },
+        "value122": 6,
+        "value123": {
+            "Tag": "sponza_meshes[0]-5"
+        },
+        "value124": 7,
+        "value125": {
+            "Tag": "sponza_meshes[0]-6"
+        },
+        "value126": 8,
+        "value127": {
+            "Tag": "sponza_meshes[0]-7"
+        },
+        "value128": 9,
+        "value129": {
+            "Tag": "sponza_meshes[0]-8"
+        },
+        "value130": 10,
+        "value131": {
+            "Tag": "sponza_meshes[0]-9"
+        },
+        "value132": 11,
+        "value133": {
+            "Tag": "sponza_meshes[0]-10"
+        },
+        "value134": 12,
+        "value135": {
+            "Tag": "sponza_meshes[0]-11"
+        },
+        "value136": 13,
+        "value137": {
+            "Tag": "sponza_meshes[0]-12"
+        },
+        "value138": 14,
+        "value139": {
+            "Tag": "sponza_meshes[0]-13"
+        },
+        "value140": 15,
+        "value141": {
+            "Tag": "sponza_meshes[0]-14"
+        },
+        "value142": 16,
+        "value143": {
+            "Tag": "sponza_meshes[0]-15"
+        },
+        "value144": 17,
+        "value145": {
+            "Tag": "sponza_meshes[0]-16"
+        },
+        "value146": 18,
+        "value147": {
+            "Tag": "sponza_meshes[0]-17"
+        },
+        "value148": 19,
+        "value149": {
+            "Tag": "sponza_meshes[0]-18"
+        },
+        "value150": 20,
+        "value151": {
+            "Tag": "sponza_meshes[0]-19"
+        },
+        "value152": 21,
+        "value153": {
+            "Tag": "sponza_meshes[0]-20"
+        },
+        "value154": 22,
+        "value155": {
+            "Tag": "sponza_meshes[0]-21"
+        },
+        "value156": 23,
+        "value157": {
+            "Tag": "sponza_meshes[0]-22"
+        },
+        "value158": 24,
+        "value159": {
+            "Tag": "sponza_meshes[0]-23"
+        },
+        "value160": 25,
+        "value161": {
+            "Tag": "sponza_meshes[0]-24"
+        },
+        "value162": 26,
+        "value163": {
+            "Tag": "sponza_meshes[0]-25"
+        },
+        "value164": 27,
+        "value165": {
+            "Tag": "sponza_meshes[0]-26"
+        },
+        "value166": 28,
+        "value167": {
+            "Tag": "sponza_meshes[0]-27"
+        },
+        "value168": 29,
+        "value169": {
+            "Tag": "sponza_meshes[0]-28"
+        },
+        "value170": 30,
+        "value171": {
+            "Tag": "sponza_meshes[0]-29"
+        },
+        "value172": 31,
+        "value173": {
+            "Tag": "sponza_meshes[0]-30"
+        },
+        "value174": 32,
+        "value175": {
+            "Tag": "sponza_meshes[0]-31"
+        },
+        "value176": 33,
+        "value177": {
+            "Tag": "sponza_meshes[0]-32"
+        },
+        "value178": 34,
+        "value179": {
+            "Tag": "sponza_meshes[0]-33"
+        },
+        "value180": 35,
+        "value181": {
+            "Tag": "sponza_meshes[0]-34"
+        },
+        "value182": 36,
+        "value183": {
+            "Tag": "sponza_meshes[0]-35"
+        },
+        "value184": 37,
+        "value185": {
+            "Tag": "sponza_meshes[0]-36"
+        },
+        "value186": 38,
+        "value187": {
+            "Tag": "sponza_meshes[0]-37"
+        },
+        "value188": 39,
+        "value189": {
+            "Tag": "sponza_meshes[0]-38"
+        },
+        "value190": 40,
+        "value191": {
+            "Tag": "sponza_meshes[0]-39"
+        },
+        "value192": 41,
+        "value193": {
+            "Tag": "sponza_meshes[0]-40"
+        },
+        "value194": 42,
+        "value195": {
+            "Tag": "sponza_meshes[0]-41"
+        },
+        "value196": 43,
+        "value197": {
+            "Tag": "sponza_meshes[0]-42"
+        },
+        "value198": 44,
+        "value199": {
+            "Tag": "sponza_meshes[0]-43"
+        },
+        "value200": 45,
+        "value201": {
+            "Tag": "sponza_meshes[0]-44"
+        },
+        "value202": 46,
+        "value203": {
+            "Tag": "sponza_meshes[0]-45"
+        },
+        "value204": 47,
+        "value205": {
+            "Tag": "sponza_meshes[0]-46"
+        },
+        "value206": 48,
+        "value207": {
+            "Tag": "sponza_meshes[0]-47"
+        },
+        "value208": 49,
+        "value209": {
+            "Tag": "sponza_meshes[0]-48"
+        },
+        "value210": 50,
+        "value211": {
+            "Tag": "sponza_meshes[0]-49"
+        },
+        "value212": 51,
+        "value213": {
+            "Tag": "sponza_meshes[0]-50"
+        },
+        "value214": 52,
+        "value215": {
+            "Tag": "sponza_meshes[0]-51"
+        },
+        "value216": 53,
+        "value217": {
+            "Tag": "sponza_meshes[0]-52"
+        },
+        "value218": 54,
+        "value219": {
+            "Tag": "sponza_meshes[0]-53"
+        },
+        "value220": 55,
+        "value221": {
+            "Tag": "sponza_meshes[0]-54"
+        },
+        "value222": 56,
+        "value223": {
+            "Tag": "sponza_meshes[0]-55"
+        },
+        "value224": 57,
+        "value225": {
+            "Tag": "sponza_meshes[0]-56"
+        },
+        "value226": 58,
+        "value227": {
+            "Tag": "sponza_meshes[0]-57"
+        },
+        "value228": 59,
+        "value229": {
+            "Tag": "sponza_meshes[0]-58"
+        },
+        "value230": 60,
+        "value231": {
+            "Tag": "sponza_meshes[0]-59"
+        },
+        "value232": 61,
+        "value233": {
+            "Tag": "sponza_meshes[0]-60"
+        },
+        "value234": 62,
+        "value235": {
+            "Tag": "sponza_meshes[0]-61"
+        },
+        "value236": 63,
+        "value237": {
+            "Tag": "sponza_meshes[0]-62"
+        },
+        "value238": 64,
+        "value239": {
+            "Tag": "sponza_meshes[0]-63"
+        },
+        "value240": 65,
+        "value241": {
+            "Tag": "sponza_meshes[0]-64"
+        },
+        "value242": 66,
+        "value243": {
+            "Tag": "sponza_meshes[0]-65"
+        },
+        "value244": 67,
+        "value245": {
+            "Tag": "sponza_meshes[0]-66"
+        },
+        "value246": 68,
+        "value247": {
+            "Tag": "sponza_meshes[0]-67"
+        },
+        "value248": 69,
+        "value249": {
+            "Tag": "sponza_meshes[0]-68"
+        },
+        "value250": 70,
+        "value251": {
+            "Tag": "sponza_meshes[0]-69"
+        },
+        "value252": 71,
+        "value253": {
+            "Tag": "sponza_meshes[0]-70"
+        },
+        "value254": 72,
+        "value255": {
+            "Tag": "sponza_meshes[0]-71"
+        },
+        "value256": 73,
+        "value257": {
+            "Tag": "sponza_meshes[0]-72"
+        },
+        "value258": 74,
+        "value259": {
+            "Tag": "sponza_meshes[0]-73"
+        },
+        "value260": 75,
+        "value261": {
+            "Tag": "sponza_meshes[0]-74"
+        },
+        "value262": 76,
+        "value263": {
+            "Tag": "sponza_meshes[0]-75"
+        },
+        "value264": 77,
+        "value265": {
+            "Tag": "sponza_meshes[0]-76"
+        },
+        "value266": 78,
+        "value267": {
+            "Tag": "sponza_meshes[0]-77"
+        },
+        "value268": 79,
+        "value269": {
+            "Tag": "sponza_meshes[0]-78"
+        },
+        "value270": 80,
+        "value271": {
+            "Tag": "sponza_meshes[0]-79"
+        },
+        "value272": 81,
+        "value273": {
+            "Tag": "sponza_meshes[0]-80"
+        },
+        "value274": 82,
+        "value275": {
+            "Tag": "sponza_meshes[0]-81"
+        },
+        "value276": 83,
+        "value277": {
+            "Tag": "sponza_meshes[0]-82"
+        },
+        "value278": 84,
+        "value279": {
+            "Tag": "sponza_meshes[0]-83"
+        },
+        "value280": 85,
+        "value281": {
+            "Tag": "sponza_meshes[0]-84"
+        },
+        "value282": 86,
+        "value283": {
+            "Tag": "sponza_meshes[0]-85"
+        },
+        "value284": 87,
+        "value285": {
+            "Tag": "sponza_meshes[0]-86"
+        },
+        "value286": 88,
+        "value287": {
+            "Tag": "sponza_meshes[0]-87"
+        },
+        "value288": 89,
+        "value289": {
+            "Tag": "sponza_meshes[0]-88"
+        },
+        "value290": 90,
+        "value291": {
+            "Tag": "sponza_meshes[0]-89"
+        },
+        "value292": 91,
+        "value293": {
+            "Tag": "sponza_meshes[0]-90"
+        },
+        "value294": 92,
+        "value295": {
+            "Tag": "sponza_meshes[0]-91"
+        },
+        "value296": 93,
+        "value297": {
+            "Tag": "sponza_meshes[0]-92"
+        },
+        "value298": 94,
+        "value299": {
+            "Tag": "sponza_meshes[0]-93"
+        },
+        "value300": 95,
+        "value301": {
+            "Tag": "sponza_meshes[0]-94"
+        },
+        "value302": 96,
+        "value303": {
+            "Tag": "sponza_meshes[0]-95"
+        },
+        "value304": 97,
+        "value305": {
+            "Tag": "sponza_meshes[0]-96"
+        },
+        "value306": 98,
+        "value307": {
+            "Tag": "sponza_meshes[0]-97"
+        },
+        "value308": 99,
+        "value309": {
+            "Tag": "sponza_meshes[0]-98"
+        },
+        "value310": 100,
+        "value311": {
+            "Tag": "sponza_meshes[0]-99"
+        },
+        "value312": 101,
+        "value313": {
+            "Tag": "sponza_meshes[0]-100"
+        },
+        "value314": 102,
+        "value315": {
+            "Tag": "sponza_meshes[0]-101"
+        },
+        "value316": 103,
+        "value317": {
+            "Tag": "sponza_meshes[0]-102"
+        },
+        "value318": 104,
+        "value319": {
+            "Tag": "World Environment"
+        },
+        "value320": 106,
+        "value321": {
+            "Tag": "Camera"
+        },
+        "value322": 1048681,
+        "value323": {
+            "Tag": "Light"
+        },
+        "value324": 107,
+        "value325": 0,
+        "value326": {
+            "cereal_class_version": 0,
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": -0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 0.00800000037997961,
+                "y": 0.00800000037997961,
+                "z": 0.00800000037997961
+            }
+        },
+        "value327": 1,
+        "value328": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value329": 2,
+        "value330": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value331": 3,
+        "value332": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value333": 4,
+        "value334": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value335": 5,
+        "value336": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value337": 6,
+        "value338": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value339": 7,
+        "value340": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value341": 8,
+        "value342": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value343": 9,
+        "value344": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value345": 10,
+        "value346": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value347": 11,
+        "value348": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value349": 12,
+        "value350": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value351": 13,
+        "value352": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value353": 14,
+        "value354": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value355": 15,
+        "value356": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value357": 16,
+        "value358": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value359": 17,
+        "value360": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value361": 18,
+        "value362": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value363": 19,
+        "value364": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value365": 20,
+        "value366": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value367": 21,
+        "value368": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value369": 22,
+        "value370": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value371": 23,
+        "value372": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value373": 24,
+        "value374": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value375": 25,
+        "value376": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value377": 26,
+        "value378": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value379": 27,
+        "value380": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value381": 28,
+        "value382": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value383": 29,
+        "value384": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value385": 30,
+        "value386": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value387": 31,
+        "value388": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value389": 32,
+        "value390": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value391": 33,
+        "value392": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value393": 34,
+        "value394": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value395": 35,
+        "value396": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value397": 36,
+        "value398": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value399": 37,
+        "value400": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value401": 38,
+        "value402": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value403": 39,
+        "value404": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value405": 40,
+        "value406": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value407": 41,
+        "value408": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value409": 42,
+        "value410": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value411": 43,
+        "value412": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value413": 44,
+        "value414": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value415": 45,
+        "value416": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value417": 46,
+        "value418": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value419": 47,
+        "value420": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value421": 48,
+        "value422": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value423": 49,
+        "value424": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value425": 50,
+        "value426": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value427": 51,
+        "value428": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value429": 52,
+        "value430": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value431": 53,
+        "value432": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value433": 54,
+        "value434": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value435": 55,
+        "value436": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value437": 56,
+        "value438": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value439": 57,
+        "value440": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value441": 58,
+        "value442": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value443": 59,
+        "value444": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value445": 60,
+        "value446": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value447": 61,
+        "value448": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value449": 62,
+        "value450": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value451": 63,
+        "value452": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value453": 64,
+        "value454": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value455": 65,
+        "value456": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value457": 66,
+        "value458": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value459": 67,
+        "value460": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value461": 68,
+        "value462": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value463": 69,
+        "value464": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value465": 70,
+        "value466": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value467": 71,
+        "value468": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value469": 72,
+        "value470": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value471": 73,
+        "value472": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value473": 74,
+        "value474": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value475": 75,
+        "value476": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value477": 76,
+        "value478": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value479": 77,
+        "value480": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value481": 78,
+        "value482": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value483": 79,
+        "value484": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value485": 80,
+        "value486": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value487": 81,
+        "value488": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value489": 82,
+        "value490": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value491": 83,
+        "value492": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value493": 84,
+        "value494": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value495": 85,
+        "value496": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value497": 86,
+        "value498": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value499": 87,
+        "value500": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value501": 88,
+        "value502": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value503": 89,
+        "value504": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value505": 90,
+        "value506": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value507": 91,
+        "value508": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value509": 92,
+        "value510": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value511": 93,
+        "value512": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value513": 94,
+        "value514": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value515": 95,
+        "value516": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value517": 96,
+        "value518": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value519": 97,
+        "value520": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value521": 98,
+        "value522": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value523": 99,
+        "value524": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value525": 100,
+        "value526": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value527": 101,
+        "value528": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value529": 102,
+        "value530": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value531": 103,
+        "value532": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value533": 104,
+        "value534": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            }
+        },
+        "value535": 106,
+        "value536": {
+            "Position": {
+                "x": 7.237637519836426,
+                "y": 4.226215839385986,
+                "z": -3.4664642810821535
+            },
+            "Rotation": {
+                "x": 180.0,
+                "y": 62.964515686035159,
+                "z": 180.0
+            },
+            "Scale": {
+                "x": 1.0000001192092896,
+                "y": 0.9999998807907105,
+                "z": 1.0000001192092896
+            }
+        },
+        "value537": 1048681,
+        "value538": {
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Rotation": {
+                "x": 32.70000076293945,
+                "y": 25.0,
+                "z": 0.0
+            },
+            "Scale": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 0.9999997615814209
+            }
+        },
+        "value539": 107,
+        "value540": 0,
+        "value541": {
+            "cereal_class_version": 0,
+            "Parent": 4294967295,
+            "First": 1,
+            "Next": 4294967295,
+            "Prev": 4294967295
+        },
+        "value542": 1,
+        "value543": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 2,
+            "Prev": 4294967295
+        },
+        "value544": 2,
+        "value545": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 3,
+            "Prev": 1
+        },
+        "value546": 3,
+        "value547": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 4,
+            "Prev": 2
+        },
+        "value548": 4,
+        "value549": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 5,
+            "Prev": 3
+        },
+        "value550": 5,
+        "value551": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 6,
+            "Prev": 4
+        },
+        "value552": 6,
+        "value553": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 7,
+            "Prev": 5
+        },
+        "value554": 7,
+        "value555": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 8,
+            "Prev": 6
+        },
+        "value556": 8,
+        "value557": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 9,
+            "Prev": 7
+        },
+        "value558": 9,
+        "value559": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 10,
+            "Prev": 8
+        },
+        "value560": 10,
+        "value561": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 11,
+            "Prev": 9
+        },
+        "value562": 11,
+        "value563": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 12,
+            "Prev": 10
+        },
+        "value564": 12,
+        "value565": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 13,
+            "Prev": 11
+        },
+        "value566": 13,
+        "value567": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 14,
+            "Prev": 12
+        },
+        "value568": 14,
+        "value569": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 15,
+            "Prev": 13
+        },
+        "value570": 15,
+        "value571": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 16,
+            "Prev": 14
+        },
+        "value572": 16,
+        "value573": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 17,
+            "Prev": 15
+        },
+        "value574": 17,
+        "value575": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 18,
+            "Prev": 16
+        },
+        "value576": 18,
+        "value577": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 19,
+            "Prev": 17
+        },
+        "value578": 19,
+        "value579": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 20,
+            "Prev": 18
+        },
+        "value580": 20,
+        "value581": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 21,
+            "Prev": 19
+        },
+        "value582": 21,
+        "value583": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 22,
+            "Prev": 20
+        },
+        "value584": 22,
+        "value585": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 23,
+            "Prev": 21
+        },
+        "value586": 23,
+        "value587": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 24,
+            "Prev": 22
+        },
+        "value588": 24,
+        "value589": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 25,
+            "Prev": 23
+        },
+        "value590": 25,
+        "value591": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 26,
+            "Prev": 24
+        },
+        "value592": 26,
+        "value593": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 27,
+            "Prev": 25
+        },
+        "value594": 27,
+        "value595": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 28,
+            "Prev": 26
+        },
+        "value596": 28,
+        "value597": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 29,
+            "Prev": 27
+        },
+        "value598": 29,
+        "value599": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 30,
+            "Prev": 28
+        },
+        "value600": 30,
+        "value601": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 31,
+            "Prev": 29
+        },
+        "value602": 31,
+        "value603": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 32,
+            "Prev": 30
+        },
+        "value604": 32,
+        "value605": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 33,
+            "Prev": 31
+        },
+        "value606": 33,
+        "value607": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 34,
+            "Prev": 32
+        },
+        "value608": 34,
+        "value609": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 35,
+            "Prev": 33
+        },
+        "value610": 35,
+        "value611": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 36,
+            "Prev": 34
+        },
+        "value612": 36,
+        "value613": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 37,
+            "Prev": 35
+        },
+        "value614": 37,
+        "value615": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 38,
+            "Prev": 36
+        },
+        "value616": 38,
+        "value617": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 39,
+            "Prev": 37
+        },
+        "value618": 39,
+        "value619": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 40,
+            "Prev": 38
+        },
+        "value620": 40,
+        "value621": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 41,
+            "Prev": 39
+        },
+        "value622": 41,
+        "value623": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 42,
+            "Prev": 40
+        },
+        "value624": 42,
+        "value625": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 43,
+            "Prev": 41
+        },
+        "value626": 43,
+        "value627": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 44,
+            "Prev": 42
+        },
+        "value628": 44,
+        "value629": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 45,
+            "Prev": 43
+        },
+        "value630": 45,
+        "value631": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 46,
+            "Prev": 44
+        },
+        "value632": 46,
+        "value633": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 47,
+            "Prev": 45
+        },
+        "value634": 47,
+        "value635": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 48,
+            "Prev": 46
+        },
+        "value636": 48,
+        "value637": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 49,
+            "Prev": 47
+        },
+        "value638": 49,
+        "value639": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 50,
+            "Prev": 48
+        },
+        "value640": 50,
+        "value641": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 51,
+            "Prev": 49
+        },
+        "value642": 51,
+        "value643": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 52,
+            "Prev": 50
+        },
+        "value644": 52,
+        "value645": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 53,
+            "Prev": 51
+        },
+        "value646": 53,
+        "value647": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 54,
+            "Prev": 52
+        },
+        "value648": 54,
+        "value649": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 55,
+            "Prev": 53
+        },
+        "value650": 55,
+        "value651": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 56,
+            "Prev": 54
+        },
+        "value652": 56,
+        "value653": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 57,
+            "Prev": 55
+        },
+        "value654": 57,
+        "value655": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 58,
+            "Prev": 56
+        },
+        "value656": 58,
+        "value657": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 59,
+            "Prev": 57
+        },
+        "value658": 59,
+        "value659": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 60,
+            "Prev": 58
+        },
+        "value660": 60,
+        "value661": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 61,
+            "Prev": 59
+        },
+        "value662": 61,
+        "value663": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 62,
+            "Prev": 60
+        },
+        "value664": 62,
+        "value665": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 63,
+            "Prev": 61
+        },
+        "value666": 63,
+        "value667": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 64,
+            "Prev": 62
+        },
+        "value668": 64,
+        "value669": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 65,
+            "Prev": 63
+        },
+        "value670": 65,
+        "value671": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 66,
+            "Prev": 64
+        },
+        "value672": 66,
+        "value673": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 67,
+            "Prev": 65
+        },
+        "value674": 67,
+        "value675": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 68,
+            "Prev": 66
+        },
+        "value676": 68,
+        "value677": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 69,
+            "Prev": 67
+        },
+        "value678": 69,
+        "value679": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 70,
+            "Prev": 68
+        },
+        "value680": 70,
+        "value681": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 71,
+            "Prev": 69
+        },
+        "value682": 71,
+        "value683": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 72,
+            "Prev": 70
+        },
+        "value684": 72,
+        "value685": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 73,
+            "Prev": 71
+        },
+        "value686": 73,
+        "value687": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 74,
+            "Prev": 72
+        },
+        "value688": 74,
+        "value689": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 75,
+            "Prev": 73
+        },
+        "value690": 75,
+        "value691": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 76,
+            "Prev": 74
+        },
+        "value692": 76,
+        "value693": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 77,
+            "Prev": 75
+        },
+        "value694": 77,
+        "value695": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 78,
+            "Prev": 76
+        },
+        "value696": 78,
+        "value697": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 79,
+            "Prev": 77
+        },
+        "value698": 79,
+        "value699": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 80,
+            "Prev": 78
+        },
+        "value700": 80,
+        "value701": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 81,
+            "Prev": 79
+        },
+        "value702": 81,
+        "value703": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 82,
+            "Prev": 80
+        },
+        "value704": 82,
+        "value705": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 83,
+            "Prev": 81
+        },
+        "value706": 83,
+        "value707": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 84,
+            "Prev": 82
+        },
+        "value708": 84,
+        "value709": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 85,
+            "Prev": 83
+        },
+        "value710": 85,
+        "value711": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 86,
+            "Prev": 84
+        },
+        "value712": 86,
+        "value713": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 87,
+            "Prev": 85
+        },
+        "value714": 87,
+        "value715": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 88,
+            "Prev": 86
+        },
+        "value716": 88,
+        "value717": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 89,
+            "Prev": 87
+        },
+        "value718": 89,
+        "value719": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 90,
+            "Prev": 88
+        },
+        "value720": 90,
+        "value721": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 91,
+            "Prev": 89
+        },
+        "value722": 91,
+        "value723": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 92,
+            "Prev": 90
+        },
+        "value724": 92,
+        "value725": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 93,
+            "Prev": 91
+        },
+        "value726": 93,
+        "value727": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 94,
+            "Prev": 92
+        },
+        "value728": 94,
+        "value729": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 95,
+            "Prev": 93
+        },
+        "value730": 95,
+        "value731": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 96,
+            "Prev": 94
+        },
+        "value732": 96,
+        "value733": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 97,
+            "Prev": 95
+        },
+        "value734": 97,
+        "value735": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 98,
+            "Prev": 96
+        },
+        "value736": 98,
+        "value737": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 99,
+            "Prev": 97
+        },
+        "value738": 99,
+        "value739": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 100,
+            "Prev": 98
+        },
+        "value740": 100,
+        "value741": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 101,
+            "Prev": 99
+        },
+        "value742": 101,
+        "value743": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 102,
+            "Prev": 100
+        },
+        "value744": 102,
+        "value745": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 103,
+            "Prev": 101
+        },
+        "value746": 103,
+        "value747": {
+            "Parent": 0,
+            "First": 4294967295,
+            "Next": 4294967295,
+            "Prev": 102
+        },
+        "value748": 104,
+        "value749": {
+            "Parent": 4294967295,
+            "First": 4294967295,
+            "Next": 4294967295,
+            "Prev": 4294967295
+        },
+        "value750": 106,
+        "value751": {
+            "Parent": 4294967295,
+            "First": 4294967295,
+            "Next": 4294967295,
+            "Prev": 4294967295
+        },
+        "value752": 1048681,
+        "value753": {
+            "Parent": 4294967295,
+            "First": 4294967295,
+            "Next": 4294967295,
+            "Prev": 4294967295
+        },
+        "value754": 1,
+        "value755": 106,
+        "value756": {
+            "cereal_class_version": 0,
+            "Camera": {
+                "cereal_class_version": 0,
+                "FOV": 45.0,
+                "AspectRatio": 1.7777777910232545,
+                "NearClip": 0.10000000149011612,
+                "FarClip": 1000.0,
+                "ProjectionType": 0,
+                "ViewportWidth": 1280.0,
+                "ViewportHeight": 720.0
+            }
+        },
+        "value757": 103,
+        "value758": 1,
+        "value759": {
+            "cereal_class_version": 0,
+            "Mesh": {
+                "cereal_class_version": 0,
+                "value0": 12185684487667368396
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value760": 2,
+        "value761": {
+            "Mesh": {
+                "value0": 6903453390419926589
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value762": 3,
+        "value763": {
+            "Mesh": {
+                "value0": 7547718845662152778
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value764": 4,
+        "value765": {
+            "Mesh": {
+                "value0": 13008538786723790147
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value766": 5,
+        "value767": {
+            "Mesh": {
+                "value0": 436274397005517450
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value768": 6,
+        "value769": {
+            "Mesh": {
+                "value0": 10151849455714673674
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value770": 7,
+        "value771": {
+            "Mesh": {
+                "value0": 3366369023725402911
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value772": 8,
+        "value773": {
+            "Mesh": {
+                "value0": 14491580504528266993
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value774": 9,
+        "value775": {
+            "Mesh": {
+                "value0": 11576378473982530669
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value776": 10,
+        "value777": {
+            "Mesh": {
+                "value0": 2697858231888683613
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value778": 11,
+        "value779": {
+            "Mesh": {
+                "value0": 547622320696118464
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value780": 12,
+        "value781": {
+            "Mesh": {
+                "value0": 4014442675787327204
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value782": 13,
+        "value783": {
+            "Mesh": {
+                "value0": 15299418862923336223
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value784": 14,
+        "value785": {
+            "Mesh": {
+                "value0": 12096774302775582359
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value786": 15,
+        "value787": {
+            "Mesh": {
+                "value0": 10792778721252589625
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value788": 16,
+        "value789": {
+            "Mesh": {
+                "value0": 11584449724798550830
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value790": 17,
+        "value791": {
+            "Mesh": {
+                "value0": 12919380758790598000
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value792": 18,
+        "value793": {
+            "Mesh": {
+                "value0": 3881766876789059514
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value794": 19,
+        "value795": {
+            "Mesh": {
+                "value0": 1212930824354464672
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value796": 20,
+        "value797": {
+            "Mesh": {
+                "value0": 847834432641757956
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value798": 21,
+        "value799": {
+            "Mesh": {
+                "value0": 634256480970865014
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value800": 22,
+        "value801": {
+            "Mesh": {
+                "value0": 9278523115873501294
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value802": 23,
+        "value803": {
+            "Mesh": {
+                "value0": 2569585284152759846
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value804": 24,
+        "value805": {
+            "Mesh": {
+                "value0": 11453626112327194054
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value806": 25,
+        "value807": {
+            "Mesh": {
+                "value0": 5262526974960344464
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value808": 26,
+        "value809": {
+            "Mesh": {
+                "value0": 14492964395360397132
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value810": 27,
+        "value811": {
+            "Mesh": {
+                "value0": 3175835447439008910
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value812": 28,
+        "value813": {
+            "Mesh": {
+                "value0": 220590336078121020
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value814": 29,
+        "value815": {
+            "Mesh": {
+                "value0": 1245970807650490313
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value816": 30,
+        "value817": {
+            "Mesh": {
+                "value0": 13862186696403407808
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value818": 31,
+        "value819": {
+            "Mesh": {
+                "value0": 18141880380873597551
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value820": 32,
+        "value821": {
+            "Mesh": {
+                "value0": 8767382557784093580
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value822": 33,
+        "value823": {
+            "Mesh": {
+                "value0": 18145049544617525856
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value824": 34,
+        "value825": {
+            "Mesh": {
+                "value0": 9430032772937949191
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value826": 35,
+        "value827": {
+            "Mesh": {
+                "value0": 3525593445434630856
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value828": 36,
+        "value829": {
+            "Mesh": {
+                "value0": 12878125140900472250
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value830": 37,
+        "value831": {
+            "Mesh": {
+                "value0": 1614878756483050521
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value832": 38,
+        "value833": {
+            "Mesh": {
+                "value0": 15651923819614502802
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value834": 39,
+        "value835": {
+            "Mesh": {
+                "value0": 15950704362350187595
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value836": 40,
+        "value837": {
+            "Mesh": {
+                "value0": 1336400336944878206
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value838": 41,
+        "value839": {
+            "Mesh": {
+                "value0": 745363504230725003
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value840": 42,
+        "value841": {
+            "Mesh": {
+                "value0": 14322511589135031699
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value842": 43,
+        "value843": {
+            "Mesh": {
+                "value0": 9981457493498217829
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value844": 44,
+        "value845": {
+            "Mesh": {
+                "value0": 17518940538013569022
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value846": 45,
+        "value847": {
+            "Mesh": {
+                "value0": 3237800265285556749
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value848": 46,
+        "value849": {
+            "Mesh": {
+                "value0": 13258314131913328361
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value850": 47,
+        "value851": {
+            "Mesh": {
+                "value0": 7528712776953897214
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value852": 48,
+        "value853": {
+            "Mesh": {
+                "value0": 6144558032440084534
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value854": 49,
+        "value855": {
+            "Mesh": {
+                "value0": 16424595287393521671
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value856": 50,
+        "value857": {
+            "Mesh": {
+                "value0": 2743110965946987888
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value858": 51,
+        "value859": {
+            "Mesh": {
+                "value0": 8630312160260650678
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value860": 52,
+        "value861": {
+            "Mesh": {
+                "value0": 274887800891557970
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value862": 53,
+        "value863": {
+            "Mesh": {
+                "value0": 6951598571884671971
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value864": 54,
+        "value865": {
+            "Mesh": {
+                "value0": 13698147463559862776
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value866": 55,
+        "value867": {
+            "Mesh": {
+                "value0": 12048322280348402891
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value868": 56,
+        "value869": {
+            "Mesh": {
+                "value0": 5571310526138145941
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value870": 57,
+        "value871": {
+            "Mesh": {
+                "value0": 2804513733912015375
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value872": 58,
+        "value873": {
+            "Mesh": {
+                "value0": 4230036204812749829
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value874": 59,
+        "value875": {
+            "Mesh": {
+                "value0": 5977341522712209020
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value876": 60,
+        "value877": {
+            "Mesh": {
+                "value0": 3410136991099591659
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value878": 61,
+        "value879": {
+            "Mesh": {
+                "value0": 9067705093802739357
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value880": 62,
+        "value881": {
+            "Mesh": {
+                "value0": 2003798539278955480
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value882": 63,
+        "value883": {
+            "Mesh": {
+                "value0": 3244877414505780766
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value884": 64,
+        "value885": {
+            "Mesh": {
+                "value0": 13845794177855061985
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value886": 65,
+        "value887": {
+            "Mesh": {
+                "value0": 10258237490718386877
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value888": 66,
+        "value889": {
+            "Mesh": {
+                "value0": 11669615945558261199
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value890": 67,
+        "value891": {
+            "Mesh": {
+                "value0": 9681312328050987266
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value892": 68,
+        "value893": {
+            "Mesh": {
+                "value0": 17664031912688013013
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value894": 69,
+        "value895": {
+            "Mesh": {
+                "value0": 15917754303406106524
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value896": 70,
+        "value897": {
+            "Mesh": {
+                "value0": 7686209086979825435
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value898": 71,
+        "value899": {
+            "Mesh": {
+                "value0": 2795282548323067574
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value900": 72,
+        "value901": {
+            "Mesh": {
+                "value0": 8256409035828402752
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value902": 73,
+        "value903": {
+            "Mesh": {
+                "value0": 8808649471203312464
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value904": 74,
+        "value905": {
+            "Mesh": {
+                "value0": 12134579554728693209
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value906": 75,
+        "value907": {
+            "Mesh": {
+                "value0": 7006755658736369369
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value908": 76,
+        "value909": {
+            "Mesh": {
+                "value0": 15707923632096291834
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value910": 77,
+        "value911": {
+            "Mesh": {
+                "value0": 18123684701453875404
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value912": 78,
+        "value913": {
+            "Mesh": {
+                "value0": 14378976226282685382
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value914": 79,
+        "value915": {
+            "Mesh": {
+                "value0": 18346972699612678767
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value916": 80,
+        "value917": {
+            "Mesh": {
+                "value0": 10846933193843545493
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value918": 81,
+        "value919": {
+            "Mesh": {
+                "value0": 905362219904228235
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value920": 82,
+        "value921": {
+            "Mesh": {
+                "value0": 18104970238466460714
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value922": 83,
+        "value923": {
+            "Mesh": {
+                "value0": 17634333941514243409
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value924": 84,
+        "value925": {
+            "Mesh": {
+                "value0": 11308684945036994572
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value926": 85,
+        "value927": {
+            "Mesh": {
+                "value0": 11315922115497948438
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value928": 86,
+        "value929": {
+            "Mesh": {
+                "value0": 5717086502071460128
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value930": 87,
+        "value931": {
+            "Mesh": {
+                "value0": 5328141561405657810
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value932": 88,
+        "value933": {
+            "Mesh": {
+                "value0": 16984486426573635995
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value934": 89,
+        "value935": {
+            "Mesh": {
+                "value0": 2792961356070804507
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value936": 90,
+        "value937": {
+            "Mesh": {
+                "value0": 13726889868773338738
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value938": 91,
+        "value939": {
+            "Mesh": {
+                "value0": 11781769129849026976
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value940": 92,
+        "value941": {
+            "Mesh": {
+                "value0": 2503658580756626555
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value942": 93,
+        "value943": {
+            "Mesh": {
+                "value0": 4068669652479633628
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value944": 94,
+        "value945": {
+            "Mesh": {
+                "value0": 14246212089994531276
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value946": 95,
+        "value947": {
+            "Mesh": {
+                "value0": 6100224831262930715
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value948": 96,
+        "value949": {
+            "Mesh": {
+                "value0": 14964565116879515859
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value950": 97,
+        "value951": {
+            "Mesh": {
+                "value0": 3374710060818489363
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value952": 98,
+        "value953": {
+            "Mesh": {
+                "value0": 13306094057757817796
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value954": 99,
+        "value955": {
+            "Mesh": {
+                "value0": 6399325991615815109
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value956": 100,
+        "value957": {
+            "Mesh": {
+                "value0": 7478904610019991252
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value958": 101,
+        "value959": {
+            "Mesh": {
+                "value0": 9626713513543185378
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value960": 102,
+        "value961": {
+            "Mesh": {
+                "value0": 4123098852200331135
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value962": 103,
+        "value963": {
+            "Mesh": {
+                "value0": 16441505105996925589
+            },
+            "AnimatorUUID": {
+                "value0": 0
+            }
+        },
+        "value964": 103,
+        "value965": 1,
+        "value966": {
+            "cereal_class_version": 1,
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 2147483649,
+                "polymorphic_name": "Coffee::PBRMaterial",
+                "ptr_wrapper": {
+                    "id": 2147483649,
+                    "data": {
+                        "Textures": {
+                            "AlbedoUUID": {
+                                "value0": 8517886154776493056
+                            },
+                            "NormalUUID": {
+                                "value0": 13099852375210909235
+                            },
+                            "MetallicUUID": {
+                                "value0": 17027510423736984320
+                            },
+                            "RoughnessUUID": {
+                                "value0": 17027510423736984320
+                            },
+                            "AOUUID": {
+                                "value0": 0
+                            },
+                            "EmissiveUUID": {
+                                "value0": 0
+                            }
+                        },
+                        "TextureFlags": {
+                            "HasAlbedo": true,
+                            "HasNormal": true,
+                            "HasMetallic": true,
+                            "HasRoughness": true,
+                            "HasAO": false,
+                            "HasEmissive": false
+                        },
+                        "Properties": {
+                            "Color": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0,
+                                "w": 1.0
+                            },
+                            "Metallic": 0.0,
+                            "Roughness": 1.0,
+                            "AO": 1.0,
+                            "Emissive": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        "value0": {
+                            "value0": {
+                                "cereal_class_version": 1,
+                                "value0": "sponza.glb_Mat0",
+                                "value1": {
+                                    "value0": ""
+                                },
+                                "value2": 8,
+                                "value3": {
+                                    "value0": 7277858314985176295
+                                },
+                                "value4": true
+                            },
+                            "Shader Path": "",
+                            "Render Settings": {
+                                "TransparencyMode": 1,
+                                "AlphaCutoff": 0.5,
+                                "BlendMode": 0,
+                                "CullMode": 1,
+                                "DepthTest": true,
+                                "Wireframe": false
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "value967": 2,
+        "value968": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 2147483650,
+                    "data": {
+                        "Textures": {
+                            "AlbedoUUID": {
+                                "value0": 13566184550345668220
+                            },
+                            "NormalUUID": {
+                                "value0": 12139251556949025117
+                            },
+                            "MetallicUUID": {
+                                "value0": 9777187491837061544
+                            },
+                            "RoughnessUUID": {
+                                "value0": 9777187491837061544
+                            },
+                            "AOUUID": {
+                                "value0": 0
+                            },
+                            "EmissiveUUID": {
+                                "value0": 0
+                            }
+                        },
+                        "TextureFlags": {
+                            "HasAlbedo": true,
+                            "HasNormal": true,
+                            "HasMetallic": true,
+                            "HasRoughness": true,
+                            "HasAO": false,
+                            "HasEmissive": false
+                        },
+                        "Properties": {
+                            "Color": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0,
+                                "w": 1.0
+                            },
+                            "Metallic": 1.0,
+                            "Roughness": 1.0,
+                            "AO": 1.0,
+                            "Emissive": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        "value0": {
+                            "value0": {
+                                "value0": "sponza.glb_Mat1",
+                                "value1": {
+                                    "value0": ""
+                                },
+                                "value2": 8,
+                                "value3": {
+                                    "value0": 9394555019527637433
+                                },
+                                "value4": true
+                            },
+                            "Shader Path": "",
+                            "Render Settings": {
+                                "TransparencyMode": 1,
+                                "AlphaCutoff": 0.5,
+                                "BlendMode": 0,
+                                "CullMode": 1,
+                                "DepthTest": true,
+                                "Wireframe": false
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "value969": 3,
+        "value970": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 15897862126251592813
+            }
+        },
+        "value971": 4,
+        "value972": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 10854345255684522585
+            }
+        },
+        "value973": 5,
+        "value974": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value975": 6,
+        "value976": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value977": 7,
+        "value978": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value979": 8,
+        "value980": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 9425675811867260310
+            }
+        },
+        "value981": 9,
+        "value982": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value983": 10,
+        "value984": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 7418865012714131672
+            }
+        },
+        "value985": 11,
+        "value986": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value987": 12,
+        "value988": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value989": 13,
+        "value990": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 1523289277369104464
+            }
+        },
+        "value991": 14,
+        "value992": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value993": 15,
+        "value994": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value995": 16,
+        "value996": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value997": 17,
+        "value998": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value999": 18,
+        "value1000": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value1001": 19,
+        "value1002": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1003": 20,
+        "value1004": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value1005": 21,
+        "value1006": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1007": 22,
+        "value1008": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value1009": 23,
+        "value1010": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1011": 24,
+        "value1012": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value1013": 25,
+        "value1014": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1015": 26,
+        "value1016": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value1017": 27,
+        "value1018": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1019": 28,
+        "value1020": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value1021": 29,
+        "value1022": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1023": 30,
+        "value1024": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value1025": 31,
+        "value1026": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1027": 32,
+        "value1028": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value1029": 33,
+        "value1030": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1031": 34,
+        "value1032": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3643526215227661915
+            }
+        },
+        "value1033": 35,
+        "value1034": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1035": 36,
+        "value1036": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value1037": 37,
+        "value1038": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1039": 38,
+        "value1040": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value1041": 39,
+        "value1042": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 5472666074949356790
+            }
+        },
+        "value1043": 40,
+        "value1044": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value1045": 41,
+        "value1046": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 5472666074949356790
+            }
+        },
+        "value1047": 42,
+        "value1048": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value1049": 43,
+        "value1050": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 5472666074949356790
+            }
+        },
+        "value1051": 44,
+        "value1052": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value1053": 45,
+        "value1054": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 1523289277369104464
+            }
+        },
+        "value1055": 46,
+        "value1056": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value1057": 47,
+        "value1058": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 7418865012714131672
+            }
+        },
+        "value1059": 48,
+        "value1060": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 9425675811867260310
+            }
+        },
+        "value1061": 49,
+        "value1062": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 589333171614546086
+            }
+        },
+        "value1063": 50,
+        "value1064": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 5804077437127323209
+            }
+        },
+        "value1065": 51,
+        "value1066": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 5604486750823231061
+            }
+        },
+        "value1067": 52,
+        "value1068": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value1069": 53,
+        "value1070": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 14202125096332037613
+            }
+        },
+        "value1071": 54,
+        "value1072": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 1
+                }
+            }
+        },
+        "value1073": 55,
+        "value1074": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 12828005517262525200
+            }
+        },
+        "value1075": 56,
+        "value1076": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 1467702338228943575
+            }
+        },
+        "value1077": 57,
+        "value1078": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 6828965011960111163
+            }
+        },
+        "value1079": 58,
+        "value1080": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 12828005517262525200
+            }
+        },
+        "value1081": 59,
+        "value1082": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 1467702338228943575
+            }
+        },
+        "value1083": 60,
+        "value1084": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 12828005517262525200
+            }
+        },
+        "value1085": 61,
+        "value1086": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 6828965011960111163
+            }
+        },
+        "value1087": 62,
+        "value1088": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 1467702338228943575
+            }
+        },
+        "value1089": 63,
+        "value1090": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 14202125096332037613
+            }
+        },
+        "value1091": 64,
+        "value1092": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 1287995941615808114
+            }
+        },
+        "value1093": 65,
+        "value1094": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 5446478628822963383
+            }
+        },
+        "value1095": 66,
+        "value1096": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 4661355073926362096
+            }
+        },
+        "value1097": 67,
+        "value1098": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 5446478628822963383
+            }
+        },
+        "value1099": 68,
+        "value1100": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 4661355073926362096
+            }
+        },
+        "value1101": 69,
+        "value1102": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 5446478628822963383
+            }
+        },
+        "value1103": 70,
+        "value1104": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 1287995941615808114
+            }
+        },
+        "value1105": 71,
+        "value1106": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 4661355073926362096
+            }
+        },
+        "value1107": 72,
+        "value1108": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 5446478628822963383
+            }
+        },
+        "value1109": 73,
+        "value1110": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 1287995941615808114
+            }
+        },
+        "value1111": 74,
+        "value1112": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 2147483651,
+                    "data": {
+                        "Textures": {
+                            "AlbedoUUID": {
+                                "value0": 8430484831384509401
+                            },
+                            "NormalUUID": {
+                                "value0": 12215618223941710132
+                            },
+                            "MetallicUUID": {
+                                "value0": 10133076451086198078
+                            },
+                            "RoughnessUUID": {
+                                "value0": 10133076451086198078
+                            },
+                            "AOUUID": {
+                                "value0": 0
+                            },
+                            "EmissiveUUID": {
+                                "value0": 0
+                            }
+                        },
+                        "TextureFlags": {
+                            "HasAlbedo": true,
+                            "HasNormal": true,
+                            "HasMetallic": true,
+                            "HasRoughness": true,
+                            "HasAO": false,
+                            "HasEmissive": false
+                        },
+                        "Properties": {
+                            "Color": {
+                                "x": 1.0,
+                                "y": 1.0,
+                                "z": 1.0,
+                                "w": 1.0
+                            },
+                            "Metallic": 1.0,
+                            "Roughness": 1.0,
+                            "AO": 1.0,
+                            "Emissive": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            }
+                        },
+                        "value0": {
+                            "value0": {
+                                "value0": "sponza.glb_Mat20",
+                                "value1": {
+                                    "value0": ""
+                                },
+                                "value2": 8,
+                                "value3": {
+                                    "value0": 15491058438476278018
+                                },
+                                "value4": true
+                            },
+                            "Shader Path": "",
+                            "Render Settings": {
+                                "TransparencyMode": 1,
+                                "AlphaCutoff": 0.5,
+                                "BlendMode": 0,
+                                "CullMode": 1,
+                                "DepthTest": true,
+                                "Wireframe": false
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "value1113": 75,
+        "value1114": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 16807238680756498927
+            }
+        },
+        "value1115": 76,
+        "value1116": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 3
+                }
+            }
+        },
+        "value1117": 77,
+        "value1118": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 16807238680756498927
+            }
+        },
+        "value1119": 78,
+        "value1120": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 3
+                }
+            }
+        },
+        "value1121": 79,
+        "value1122": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 16807238680756498927
+            }
+        },
+        "value1123": 80,
+        "value1124": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 3
+                }
+            }
+        },
+        "value1125": 81,
+        "value1126": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 16807238680756498927
+            }
+        },
+        "value1127": 82,
+        "value1128": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 2
+                }
+            }
+        },
+        "value1129": 83,
+        "value1130": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 15897862126251592813
+            }
+        },
+        "value1131": 84,
+        "value1132": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 2
+                }
+            }
+        },
+        "value1133": 85,
+        "value1134": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 15897862126251592813
+            }
+        },
+        "value1135": 86,
+        "value1136": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 2
+                }
+            }
+        },
+        "value1137": 87,
+        "value1138": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 15897862126251592813
+            }
+        },
+        "value1139": 88,
+        "value1140": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 2
+                }
+            }
+        },
+        "value1141": 89,
+        "value1142": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 15897862126251592813
+            }
+        },
+        "value1143": 90,
+        "value1144": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 2
+                }
+            }
+        },
+        "value1145": 91,
+        "value1146": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 15897862126251592813
+            }
+        },
+        "value1147": 92,
+        "value1148": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 2
+                }
+            }
+        },
+        "value1149": 93,
+        "value1150": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 15897862126251592813
+            }
+        },
+        "value1151": 94,
+        "value1152": {
+            "IsEmbedded": true,
+            "Material": {
+                "polymorphic_id": 1,
+                "ptr_wrapper": {
+                    "id": 2
+                }
+            }
+        },
+        "value1153": 95,
+        "value1154": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 15897862126251592813
+            }
+        },
+        "value1155": 96,
+        "value1156": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 8188621586224022656
+            }
+        },
+        "value1157": 97,
+        "value1158": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 7477011203601752843
+            }
+        },
+        "value1159": 98,
+        "value1160": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 10854345255684522585
+            }
+        },
+        "value1161": 99,
+        "value1162": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 7477011203601752843
+            }
+        },
+        "value1163": 100,
+        "value1164": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 10854345255684522585
+            }
+        },
+        "value1165": 101,
+        "value1166": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value1167": 102,
+        "value1168": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 13891273717694556423
+            }
+        },
+        "value1169": 103,
+        "value1170": {
+            "IsEmbedded": false,
+            "Type": 8,
+            "MaterialUUID": {
+                "value0": 3585208768754010275
+            }
+        },
+        "value1171": 1,
+        "value1172": 1048681,
+        "value1173": {
+            "cereal_class_version": 2,
+            "Color": {
+                "x": 1.0,
+                "y": 0.9745707511901856,
+                "z": 0.9072580337524414
+            },
+            "Direction": {
+                "x": -0.22831544280052186,
+                "y": -0.8415107727050781,
+                "z": -0.4896240532398224
+            },
+            "Position": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "Range": 5.0,
+            "Attenuation": 1.0,
+            "Intensity": 2.0,
+            "Angle": 45.0,
+            "Type": 0,
+            "Shadow": true,
+            "ShadowBias": 0.0,
+            "ShadowMaxDistance": 26.0,
+            "ConeAttenuation": 48.0
+        },
+        "value1174": 1,
+        "value1175": 104,
+        "value1176": {
+            "cereal_class_version": 2,
+            "Skybox": {
+                "value0": 17180031271658795149
+            },
+            "SkyboxIntensity": 1.0,
+            "TonemappingExposure": 1.0,
+            "Fog": false,
+            "FogColor": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 0.5
+            },
+            "FogDensity": 0.10000000149011612,
+            "FogHeight": 0.0,
+            "FogHeightDensity": 0.10000000149011612,
+            "Bloom": false,
+            "BloomIntensity": 1.0,
+            "BloomRadius": 1.0,
+            "MaxMipLevels": 5
+        },
+        "value1177": 0,
+        "value1178": 0,
+        "value1179": 0,
+        "value1180": 0,
+        "value1181": 0,
+        "value1182": 0,
+        "value1183": 0,
+        "value1184": 0,
+        "value1185": 0,
+        "value1186": 107,
+        "value1187": 0,
+        "value1188": 1,
+        "value1189": 2,
+        "value1190": 3,
+        "value1191": 4,
+        "value1192": 5,
+        "value1193": 6,
+        "value1194": 7,
+        "value1195": 8,
+        "value1196": 9,
+        "value1197": 10,
+        "value1198": 11,
+        "value1199": 12,
+        "value1200": 13,
+        "value1201": 14,
+        "value1202": 15,
+        "value1203": 16,
+        "value1204": 17,
+        "value1205": 18,
+        "value1206": 19,
+        "value1207": 20,
+        "value1208": 21,
+        "value1209": 22,
+        "value1210": 23,
+        "value1211": 24,
+        "value1212": 25,
+        "value1213": 26,
+        "value1214": 27,
+        "value1215": 28,
+        "value1216": 29,
+        "value1217": 30,
+        "value1218": 31,
+        "value1219": 32,
+        "value1220": 33,
+        "value1221": 34,
+        "value1222": 35,
+        "value1223": 36,
+        "value1224": 37,
+        "value1225": 38,
+        "value1226": 39,
+        "value1227": 40,
+        "value1228": 41,
+        "value1229": 42,
+        "value1230": 43,
+        "value1231": 44,
+        "value1232": 45,
+        "value1233": 46,
+        "value1234": 47,
+        "value1235": 48,
+        "value1236": 49,
+        "value1237": 50,
+        "value1238": 51,
+        "value1239": 52,
+        "value1240": 53,
+        "value1241": 54,
+        "value1242": 55,
+        "value1243": 56,
+        "value1244": 57,
+        "value1245": 58,
+        "value1246": 59,
+        "value1247": 60,
+        "value1248": 61,
+        "value1249": 62,
+        "value1250": 63,
+        "value1251": 64,
+        "value1252": 65,
+        "value1253": 66,
+        "value1254": 67,
+        "value1255": 68,
+        "value1256": 69,
+        "value1257": 70,
+        "value1258": 71,
+        "value1259": 72,
+        "value1260": 73,
+        "value1261": 74,
+        "value1262": 75,
+        "value1263": 76,
+        "value1264": 77,
+        "value1265": 78,
+        "value1266": 79,
+        "value1267": 80,
+        "value1268": 81,
+        "value1269": 82,
+        "value1270": 83,
+        "value1271": 84,
+        "value1272": 85,
+        "value1273": 86,
+        "value1274": 87,
+        "value1275": 88,
+        "value1276": 89,
+        "value1277": 90,
+        "value1278": 91,
+        "value1279": 92,
+        "value1280": 93,
+        "value1281": 94,
+        "value1282": 95,
+        "value1283": 96,
+        "value1284": 97,
+        "value1285": 98,
+        "value1286": 99,
+        "value1287": 100,
+        "value1288": 101,
+        "value1289": 102,
+        "value1290": 103,
+        "value1291": 104,
+        "value1292": 106,
+        "value1293": 1048681,
+        "value1294": 0,
+        "value1295": 0,
+        "value1296": 0,
+        "value1297": 0,
+        "value1298": 0,
+        "value1299": 0,
+        "value1300": 0,
+        "value1301": 0
+    }
+}

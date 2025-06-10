@@ -11,7 +11,7 @@
                         "key": "sphere_Sphere",
                         "value": {
                             "cereal_class_version": 0,
-                            "value0": 779497073422463592
+                            "value0": 2043633349322724439
                         }
                     }
                 ],
@@ -19,21 +19,21 @@
                     {
                         "key": "sphere.glb_Mat0",
                         "value": {
-                            "value0": 4157325529429328620
+                            "value0": 9867593688375017201
                         }
                     }
                 ],
                 "value0": {
                     "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 4204335663366384144
+                        "value0": 10487354093384466018
                     },
                     "type": 4,
                     "originalPath": {
-                        "value0": "sphere.glb"
+                        "value0": "SunTempleGLTF/sphere.glb"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/4204335663366384144.model"
+                        "value0": ".CoffeeEngine/Cache/10487354093384466018.model"
                     },
                     "cache": true,
                     "internal": false

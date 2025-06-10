@@ -11,7 +11,7 @@
                         "key": "Bloom_Text",
                         "value": {
                             "cereal_class_version": 0,
-                            "value0": 271283068662448685
+                            "value0": 7560921093749594568
                         }
                     }
                 ],
@@ -19,21 +19,21 @@
                     {
                         "key": "Bloom.glb_Mat0",
                         "value": {
-                            "value0": 8706374135086034483
+                            "value0": 3655973638208578125
                         }
                     }
                 ],
                 "value0": {
                     "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 5747454098048010228
+                        "value0": 5170706099065281802
                     },
                     "type": 4,
                     "originalPath": {
-                        "value0": "Bloom.glb"
+                        "value0": "Bloom-Testing/Bloom.glb"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/5747454098048010228.model"
+                        "value0": ".CoffeeEngine/Cache/5170706099065281802.model"
                     },
                     "cache": true,
                     "internal": false

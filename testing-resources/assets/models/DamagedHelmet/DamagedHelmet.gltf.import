@@ -5,11 +5,13 @@
         "ptr_wrapper": {
             "valid": 1,
             "data": {
+                "cereal_class_version": 0,
                 "meshUUIDs": [
                     {
                         "key": "DamagedHelmet_mesh_helmet_LP_13930damagedHelmet",
                         "value": {
-                            "value0": 9401128420297502308
+                            "cereal_class_version": 0,
+                            "value0": 1430105384424380963
                         }
                     }
                 ],
@@ -17,20 +19,21 @@
                     {
                         "key": "Material_MR_Mat0",
                         "value": {
-                            "value0": 8193131248793045844
+                            "value0": 15595057110468799649
                         }
                     }
                 ],
                 "value0": {
+                    "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 9358316967540175349
+                        "value0": 4680336779107229709
                     },
                     "type": 4,
                     "originalPath": {
-                        "value0": "assets/models/DamagedHelmet/DamagedHelmet.gltf"
+                        "value0": "testing-resources/assets/models/DamagedHelmet/DamagedHelmet.gltf"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/9358316967540175349.model"
+                        "value0": ".CoffeeEngine/Cache/4680336779107229709.model"
                     },
                     "cache": true,
                     "internal": false

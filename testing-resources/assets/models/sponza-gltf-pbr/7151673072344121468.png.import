@@ -5,16 +5,19 @@
         "ptr_wrapper": {
             "valid": 1,
             "data": {
+                "cereal_class_version": 0,
                 "value0": {
+                    "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 1783726547255346572
+                        "cereal_class_version": 0,
+                        "value0": 12402902074984355
                     },
                     "type": 2,
                     "originalPath": {
-                        "value0": "assets/models/sponza-gltf-pbr/7151673072344121468.png"
+                        "value0": "testing-resources/assets/models/sponza-gltf-pbr/7151673072344121468.png"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/1783726547255346572.tex"
+                        "value0": ".CoffeeEngine/Cache/12402902074984355.tex"
                     },
                     "cache": true,
                     "internal": false

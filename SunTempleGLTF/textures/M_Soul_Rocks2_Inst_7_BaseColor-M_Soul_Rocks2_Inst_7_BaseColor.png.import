@@ -10,14 +10,14 @@
                     "cereal_class_version": 0,
                     "uuid": {
                         "cereal_class_version": 0,
-                        "value0": 17252484505415258007
+                        "value0": 2802190062719430752
                     },
                     "type": 2,
                     "originalPath": {
-                        "value0": "textures/M_Soul_Rocks2_Inst_7_BaseColor-M_Soul_Rocks2_Inst_7_BaseColor.png"
+                        "value0": "SunTempleGLTF/textures/M_Soul_Rocks2_Inst_7_BaseColor-M_Soul_Rocks2_Inst_7_BaseColor.png"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/17252484505415258007.tex"
+                        "value0": ".CoffeeEngine/Cache/2802190062719430752.tex"
                     },
                     "cache": true,
                     "internal": false

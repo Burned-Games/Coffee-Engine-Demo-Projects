@@ -5,16 +5,19 @@
         "ptr_wrapper": {
             "valid": 1,
             "data": {
+                "cereal_class_version": 0,
                 "value0": {
+                    "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 6075047506944821376
+                        "cereal_class_version": 0,
+                        "value0": 4140626969683090039
                     },
                     "type": 2,
                     "originalPath": {
-                        "value0": "assets/models/DamagedHelmet/Default_metalRoughness.jpg"
+                        "value0": "testing-resources/assets/models/DamagedHelmet/Default_metalRoughness.jpg"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/6075047506944821376.tex"
+                        "value0": ".CoffeeEngine/Cache/4140626969683090039.tex"
                     },
                     "cache": true,
                     "internal": false

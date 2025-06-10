@@ -1,9 +1,0 @@
-{
-    "Project": {
-        "Name": "testing-resources.TeaProject",
-        "StartScene": "",
-        "CacheDirectory": {
-            "value0": ".CoffeeEngine/Cache/"
-        }
-    }
-}

@@ -5,16 +5,19 @@
         "ptr_wrapper": {
             "valid": 1,
             "data": {
+                "cereal_class_version": 0,
                 "value0": {
+                    "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 15126671391839751523
+                        "cereal_class_version": 0,
+                        "value0": 7250498453691613579
                     },
                     "type": 3,
                     "originalPath": {
-                        "value0": "assets/textures/StandardCubeMap.hdr"
+                        "value0": "testing-resources/assets/textures/StandardCubeMap.hdr"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/15126671391839751523.cubemap"
+                        "value0": ".CoffeeEngine/Cache/7250498453691613579.cubemap"
                     },
                     "cache": true,
                     "internal": false

@@ -10,14 +10,14 @@
                     "cereal_class_version": 0,
                     "uuid": {
                         "cereal_class_version": 0,
-                        "value0": 10017246647839678469
+                        "value0": 15640892448015618599
                     },
                     "type": 2,
                     "originalPath": {
-                        "value0": "survival_guitar_backpack/textures/Scene_-_Root_normal.png"
+                        "value0": "Bloom-Testing/survival_guitar_backpack/textures/Scene_-_Root_normal.png"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/10017246647839678469.tex"
+                        "value0": ".CoffeeEngine/Cache/15640892448015618599.tex"
                     },
                     "cache": true,
                     "internal": false

@@ -10,14 +10,14 @@
                     "cereal_class_version": 0,
                     "uuid": {
                         "cereal_class_version": 0,
-                        "value0": 12328454388219517069
+                        "value0": 16061772423244318275
                     },
                     "type": 3,
                     "originalPath": {
-                        "value0": "moonless_golf_4k.hdr"
+                        "value0": "Bloom-Testing/moonless_golf_4k.hdr"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/12328454388219517069.cubemap"
+                        "value0": ".CoffeeEngine/Cache/16061772423244318275.cubemap"
                     },
                     "cache": true,
                     "internal": false

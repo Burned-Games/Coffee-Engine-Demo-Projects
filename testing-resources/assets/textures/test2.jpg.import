@@ -5,16 +5,19 @@
         "ptr_wrapper": {
             "valid": 1,
             "data": {
+                "cereal_class_version": 0,
                 "value0": {
+                    "cereal_class_version": 0,
                     "uuid": {
-                        "value0": 9027283524816006561
+                        "cereal_class_version": 0,
+                        "value0": 5427686901855992069
                     },
                     "type": 2,
                     "originalPath": {
-                        "value0": "assets/textures/test2.jpg"
+                        "value0": "testing-resources/assets/textures/test2.jpg"
                     },
                     "cachedPath": {
-                        "value0": ".CoffeeEngine/Cache/9027283524816006561.tex"
+                        "value0": ".CoffeeEngine/Cache/5427686901855992069.tex"
                     },
                     "cache": true,
                     "internal": false
